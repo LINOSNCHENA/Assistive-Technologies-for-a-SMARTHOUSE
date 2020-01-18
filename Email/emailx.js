@@ -14,7 +14,7 @@ app.get('/', function (req, res) {      res.render('index');    });
 app.post('/send-email', function (req, res) {
 let transporter = nodeMailer.createTransport({
         host: 'smtp.gmail.com',       port: 587,      secure: false,
-        auth: { user: 'dianaphirin@gmail.com',pass: 'XXXXemb2019' }  });
+        auth: { user: 'dianaphirin@gmail.com',pass: 'XXXXX2019' }  });
 
 let mailOptions = {
         from: '"DIANA PHIRI" <dianaphirin@gmail.com>', 

@@ -16,8 +16,8 @@ def home():
 def predict():
 
     dangerZone=75
-    account_sid = 'ACa5b2898f284381b46bc05c14c2c0ff3d'
-    auth_token = '59dea85a451127e47bb4fff3259bd510'
+    account_sid = 'xxx'
+    auth_token = 'xx'
     client = Client(account_sid, auth_token)
     sms1 = 'WARNING! FEVER FOR SENIOR CITIZEN #33 HAS ENTERED THE DANGER ZONE!'
     sms2 = 'WARNING! FEVER FOR SENIOR CITIZEN #22 HAS ENTERED THE DANGER ZONE!'
@@ -41,7 +41,7 @@ def predict():
         print(dangerZone)
         print("======== WARNING SMS REPORT =============") 
         message = client.messages.create( body='| '+ '\n\n'+sms1+'\n\n'+' |'
-        ,from_='+1 855 806 1779', to='+420774348004')
+        ,from_='xx806 1779', to='xxx004')
         print(message)
         print("===========================================") 
     return render_template('index.html', prediction_level='Fever Lever: {}'.format(fever_output)+"%")
