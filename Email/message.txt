@@ -1,0 +1,8 @@
+Dear ${PERSON_NAME}, 
+
+This is a transcript from the senior student you have been monitoring. Find attached is the logs; 
+1. sms1 = 'WARNING! FEVER FOR SENIOR CITIZEN #21 HAS ENTERED THE DANGER ZONE!';
+2. sms2 = 'WARNING! FEVER FOR SENIOR CITIZEN #49 HAS ENTERED THE DANGER ZONE!';
+
+Yours Truly,
+Linos Nchena

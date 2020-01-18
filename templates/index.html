@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8"><title>FEVER_APP</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body style="background: green">
+ <div class="login"><h1> API for Fever Detection</h1>
+    <form action="{{ url_for('predict')}}"method="post">
+    <input type="text" name="feat1"  placeholder="Feat_One"   required="required" >
+    <input type="text" name="feat2"  placeholder="Feat_Two"   required="required" >
+    <input type="text" name="feat3"  placeholder="Feat_Three" required="required" />
+    <input type="text" name="feat4"  placeholder="Feat_Four"  required="required" />
+    <input type="text" name="feat5"  placeholder="Feat_Five"  required="required" />
+    <input type="text" name="feat6"  placeholder="Feat_six"   required="required" />
+    <input type="text" name="feat7"  placeholder="Feat_Seven" required="required" />
+    <input type="text" name="feat8"  placeholder="Feat_Eight" required="required" /><br>
+ <button type="submit" class="btn btn-primary btn-block btn-large"> RUN A FEVER TEST NOW</button>
+</form><br>
+   {{prediction_level}}
+</div></body>
+</html>
