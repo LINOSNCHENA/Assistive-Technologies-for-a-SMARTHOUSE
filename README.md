@@ -22,3 +22,9 @@ The function of this application is to connect a fever detection system to a com
 1. SMS
 2. Email Python
 3. Email Nodejs
+
+## INTERFACE UX
+Below are some Screens shots from the application in development
+![ Application Muntu Accuracy # 1 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_Accuracy.png)
+![ Application Muntu Accuracy # 2 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_Loss.png)
+![ Application Muntu Accuracy # 3 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_MSE.png)

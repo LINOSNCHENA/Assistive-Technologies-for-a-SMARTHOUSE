@@ -16,4 +16,5 @@ conda install -c anaconda pandas
 conda install -c anaconda scikit-learn
 
 npm install express twilio cron nodemailer --save
+npm install --save
 pip install twilio flask
