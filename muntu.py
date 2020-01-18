@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 from sklearn.linear_model import LinearRegression
 
-dataset = pd.read_csv('ablind2.csv')
+dataset = pd.read_csv('fever2.csv')
 X = dataset.iloc[:, :-1] 
 y = dataset.iloc[:, -1]
 # =================================================================================== #

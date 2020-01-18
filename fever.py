@@ -5,14 +5,14 @@ from keras.layers import Dense
 from pandas import read_csv
 import numpy
 
-dataset1 = read_csv('ablind1.csv', header=None)	
+dataset1 = read_csv('fever1.csv', header=None)	
 dataset1[[1,2,3,4,5,6,7]] = dataset1[[1,2,3,4,5,6,7]].replace(0, numpy.NaN)
 print(dataset1)
 dataset1.fillna(dataset1.median(), inplace=True)
 print(dataset1)
 X = dataset1.iloc[:, :-1] 	#X = dataset1.iloc[:,0:8]
 y = dataset1.iloc[:, -1]	#y = dataset1.iloc[:,:8]
-# define the Muntu model ======================================================================
+# define the Muntu model ===================================================================
 muntu = Sequential()
 muntu.add(Dense(16, input_dim=8, activation='elu'))
 muntu.add(Dense(8, activation='elu'))
@@ -27,7 +27,7 @@ plt.ylabel('Accuracy values')
 plt.xlabel('epoch')
 plt.legend(['ACC_Training Data', 'ACC_Validation data','Loss_Training data',
 'Loss_Validation data','MSE_Training data','MSE_Validation data'], loc='best')
-plt.savefig('Plot_Accuracy.png')
+plt.savefig('Plot_ACC.png')
 # plot metrics from trained model	//	# summarize history for loss		    	# 2
 plt.plot(history.history['loss'])
 plt.plot(history.history['val_loss'])
@@ -46,7 +46,7 @@ plt.xlabel('epoch')
 plt.legend(['ACC_Training Data', 'ACC_Validation data','Loss_Training data',
 'Loss_Validation data','MSE_Training data','MSE_Validation data'], loc='best')
 plt.savefig('Plot_MSE.png')
-#============================================================================================
+#=========================================================================================
 
 # evaluate the keras muntuz
 accuracy = muntu.evaluate(X, y)
@@ -54,5 +54,5 @@ print("Loss, MSE, Accuracy",accuracy)
 predictions = muntu.predict_classes(X)
 for i in range(1):
 	print('%s => %d (Sample Prediction of Fever %d)' % (X[i].tolist(), predictions[i], y[i]))
-print("======================================= END OF PREDICTION ============================")
+print("================================== END OF PREDICTION ================================")
 
