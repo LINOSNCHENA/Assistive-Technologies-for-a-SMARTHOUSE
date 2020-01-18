@@ -1,0 +1,1 @@
+# SmartHouse-assistive-systems-for-elderly-people-fever-detection-alarm
