@@ -1,3 +1,16 @@
+## CODE ENVIROMENT
+
+conda create -n tf tensorflow
+conda activate tf
+conda install -c conda-forge/label/cf201901 keras
+conda install -c conda-forge/label/cf201901 matplotlib
+conda install -c anaconda pandas
+conda install -c anaconda scikit-learn
+
+pip install pillow
+pip install twilio flask
+npm install express twilio cron nodemailer --save
+
 activate base
-cd P1_SingleLable
+activate tf
 python fraud1.py

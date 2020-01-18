@@ -1,5 +1,5 @@
 import pandas as pd
-eHouse="file:///Users/linos/Downloads/InstalledApps/deafness.csv"
+eHouse="file:///Users/linos/Downloads/InstalledApps/feverX.csv"
 df = pd.read_csv(eHouse)
 x = df.iloc[:,:-1].astype(float).values
 y = df.iloc[:,-1].values

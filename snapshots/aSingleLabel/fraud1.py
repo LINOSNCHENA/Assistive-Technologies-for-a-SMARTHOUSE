@@ -29,19 +29,13 @@ for epoch in range(3):
     weights -= learningRate * np.dot(visitorX, z_delta) # Three
     for XYZ in z_delta:
        bias -= learningRate * XYZ
-print('================================== MODEL APPLICATION ==========================')
+print('================================== MODEL RESULT ==========================')
 single_point = np.array([0,0,0])
 result = sigmoid(np.dot(single_point, weights) + bias)
-print('Chances Dangerous 1-3 # {:Bad}:',(result))
+print('Diagnosis Result: 0 OR 1 # {:Bad}:',(result))
 def predictx(result):
-  if(result <= 0.25):
-    intruder_predicted = 0
-  if(result <= 0.50):
-    intruder_predicted = 1
-  if(result <= 0.75):
-    intruder_predicted = 2
-  else:
-    intruder_predicted = 3
+  if(result <= 0.25):    intruder_predicted = 0
+  else:                  intruder_predicted = 1
   return intruder_predicted
 print((predictx(result)))
-print('================================== ANN x2 END ========================')
+print('==================================== END =================================')

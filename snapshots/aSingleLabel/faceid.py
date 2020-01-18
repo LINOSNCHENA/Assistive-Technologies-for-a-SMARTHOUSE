@@ -29,8 +29,7 @@ training_set = train_datagen.flow_from_directory('data/training_set',
 target_size = (64, 64),batch_size = 18, class_mode = 'binary')
 test_set = test_datagen.flow_from_directory('data/test_set',
 target_size = (64, 64),batch_size = 18,class_mode = 'binary')
-police.fit_generator(training_set,steps_per_epoch = 6, epochs = 2,
-validation_data = test_set, validation_steps = 20)
+police.fit_generator(training_set,steps_per_epoch = 6, epochs = 2,validation_data = test_set, validation_steps = 20)
 
 # Part 3 - MAKING NEW PREDICTIONS
 import numpy as np

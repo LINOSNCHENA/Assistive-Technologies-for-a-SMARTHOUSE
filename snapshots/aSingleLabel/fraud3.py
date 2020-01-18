@@ -1,41 +1,27 @@
+import keras
+from keras.models import Sequential
+from keras.layers import Dense, Activation
 import numpy as np
-import pandas as pd
-eHouse="file:///Users/linos/Downloads/InstalledApps/blindness.csv"
-df = pd.read_csv(eHouse)
+import matplotlib.pyplot as plt 
+ 
+x = data = np.linspace(1,2,20)
+y = x*3 + np.random.randn(*x.shape) * 0.3
 
-#Display the shape of the data set
-print('Size of weather data frame is :',df.shape)
-print(df[0:5])
-print ("============================================== DATA LOADING ===========================")
-print(df.count().sort_values())
-#df = df.drop(columns=['hear','temperature','memory','protein'],axis=1)
+muntu = Sequential()
+muntu.add(Dense(1, input_dim=1, activation='linear'))
+muntu.compile(optimizer='sgd', loss='mse', metrics=['mse'])
 
-print ("=========================================== DATA PREPOCESSING =========================")
-print(df.shape)
-print(df.count().sort_values())
-#Removing null values
-df = df.dropna(how='any')
-print(df.shape)
+weights = muntu.layers[0].get_weights()
+w_init = weights[0][0][0]
+b_init = weights[1][0]
+print('Linear regression model is initialized with weights w: %.2f, b: %.2f' % (w_init, b_init)) 
+muntu.fit(x,y, batch_size=1, epochs=3, shuffle=False)
 
-print ("============================================= DATA OUTLIERS =========================")
-from scipy import stats
-z = np.abs(stats.zscore(df._get_numeric_data()))
-print(z)
-df= df[(z < 3).all(axis=1)]
-print(df.shape)
-print ("============================================= DATA NORMALIZE =========================")
-from sklearn import preprocessing
-scaler = preprocessing.MinMaxScaler()
-scaler.fit(df)
-df = pd.DataFrame(scaler.transform(df), index=df.index, columns=df.columns)
-df.iloc[4:10]
+weights = muntu.layers[0].get_weights()
+w_final = weights[0][0][0]
+b_final = weights[1][0]
+print('Linear regression model is trained to have weight w: %.2f, b: %.2f' % (w_final, b_final))
 
-#Using SelectKBest to get the top features!
-from sklearn.feature_selection import SelectKBest, chi2
-X = df.loc[:,df.columns!='smoking']
-y = df[['smoking']]
-selector = SelectKBest(chi2, k=3)
-selector.fit(X, y)
-X_new = selector.transform(X)
-print(X.columns[selector.get_support(indices=True)])
-print ("============================================= DATA ENDING =========================")
+predict = muntu.predict(data)
+plt.plot(data, predict, 'b', data , y, 'k.')
+plt.savefig('Plot_Linear.png')
