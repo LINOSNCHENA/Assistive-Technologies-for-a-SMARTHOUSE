@@ -47,7 +47,8 @@ plt.legend(['ACC_Training Data', 'ACC_Validation data','Loss_Training data',
 'Loss_Validation data','MSE_Training data','MSE_Validation data'], loc='best')
 plt.savefig('Plot_MSE.png')
 #============================================================================================
-# evaluate the keras muntu
+
+# evaluate the keras muntuz
 accuracy = muntu.evaluate(X, y)
 print("Loss, MSE, Accuracy",accuracy)
 predictions = muntu.predict_classes(X)
