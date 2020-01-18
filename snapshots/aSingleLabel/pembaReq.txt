@@ -13,4 +13,4 @@ pip install matpolotlib imutils OpenCV imutils  opencv-python pillow
 npm install express twilio cron nodemailer --save
 
 python train.py --dataset dataset --model seniors.model --labelbin mlb.pickle
-python classify.py --model seniors.model --labelbin mlb.pickle --image visitors/visitor_2.jpg
+python classify.py --model seniors.model --labelbin mlb.pickle --image visitors/visitor_5.jpg

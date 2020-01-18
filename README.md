@@ -4,7 +4,7 @@ The function of this application is to connect a fever detection system to a com
 
 ## Devices and Components
 1. Sensors and PC
-2. Server and PC
+2. Server and Website
 3. Phone and PC
 
 ## Structure pictures
