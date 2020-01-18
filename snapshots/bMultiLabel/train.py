@@ -1,8 +1,6 @@
 # set the matplotlib backend so figures can be saved in the background
 import matplotlib
 matplotlib.use("Agg")
-
-# import the necessary packages
 from keras.preprocessing.image import ImageDataGenerator
 from keras.optimizers import Adam
 from keras.preprocessing.image import img_to_array
@@ -25,9 +23,6 @@ ap.add_argument("-m", "--model", required=True,	help="path to output model")
 ap.add_argument("-l", "--labelbin", required=True,	help="path to output label binarizer")
 ap.add_argument("-p", "--plot", type=str, default="plot.png",	help="path to output accuracy/loss plot")
 args = vars(ap.parse_args())
-
-# initialize the number of epochs to train for, initial learning rate,
-# batch size, and image dimensions
 EPOCHS = 75
 INIT_LR = 1e-3
 BS = 32
@@ -38,8 +33,6 @@ print("[INFO] loading images...")
 imagePaths = sorted(list(paths.list_images(args["dataset"])))
 random.seed(42)
 random.shuffle(imagePaths)
-
-# initialize the data and labels
 data = []
 labels = []
 
@@ -52,7 +45,6 @@ for imagePath in imagePaths:
 	data.append(image)
 
 	# extract set of class labels from the image path and update the
-	# labels list
 	l = label = imagePath.split(os.path.sep)[-2].split("_")
 	labels.append(l)
 
@@ -91,21 +83,12 @@ model = SmallerVGGNet.build(
 
 # initialize the optimizer (SGD is sufficient)
 opt = Adam(lr=INIT_LR, decay=INIT_LR / EPOCHS)
-
-# compile the model using binary cross-entropy rather than
-# categorical cross-entropy -- this may seem counterintuitive for
-# multi-label classification, but keep in mind that the goal here
-# is to treat each output label as an independent Bernoulli
-# distribution
 model.compile(loss="binary_crossentropy", optimizer=opt,metrics=["accuracy"])
 
 # train the network
 print("[INFO] training network...")
-H = model.fit_generator(
-	aug.flow(trainX, trainY, batch_size=BS),
-	validation_data=(testX, testY),
-	steps_per_epoch=len(trainX) // BS,
-	epochs=EPOCHS, verbose=1)
+H = model.fit_generator(aug.flow(trainX, trainY, batch_size=BS),validation_data=(testX, testY),	
+	steps_per_epoch=len(trainX) // BS,epochs=EPOCHS, verbose=1)
 
 # save the model to disk
 print("[INFO] serializing network...")

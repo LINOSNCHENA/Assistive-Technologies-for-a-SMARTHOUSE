@@ -1,11 +1,3 @@
-# USAGE
-# python search_bing_api.py --query "blue jeans" --output dataset/blue_jeans
-# python search_bing_api.py --query "blue dress" --output dataset/blue_dress
-# python search_bing_api.py --query "red dress" --output dataset/red_dress
-# python search_bing_api.py --query "red shirt" --output dataset/red_shirt
-# python search_bing_api.py --query "blue shirt" --output dataset/blue_shirt
-# python search_bing_api.py --query "black jeans" --output dataset/black_jeans
-
 # import the necessary packages
 from requests import exceptions
 import argparse
