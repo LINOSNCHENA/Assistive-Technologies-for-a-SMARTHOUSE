@@ -1,15 +1,15 @@
 @import url(https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
 body { 
 	width: 100%;	height:100%;
-	font-family: 'Helvetica';	background: #000;	color: #fff;
+	font-family: 'Helvetica';	background: #000;	color:red;
 	font-size: 24px;	text-align:center;	letter-spacing:1.4px;
 }
 .login { 
 	position: absolute;	top: 10%;	left:40%;
-	margin: -150px 0 0 -150px;	width:500px;	height:450px;
-}
+	margin: -150px 0 0 -150px;	width:500px;	height:450px;}
 
 .login h1 { color: #fff; text-shadow: 0 0 10px rgba(0,0,0,0.3); letter-spacing:1px; text-align:center; }
+.login h2 { color: orangered; text-shadow: 0 0 10px rgba(0,0,0,0.3); letter-spacing:1px; text-align:justified; }
 
 input { 
 	width: 100%; 	margin-bottom: 10px; 
@@ -27,46 +27,22 @@ input:focus { box-shadow: inset 0 -5px 45px rgba(100,100,100,0.4), 0 1px 1px rgb
 
 
 /* Style the form - display items horizontally */
-.form-inline {
-	display: flex;
-	flex-flow: row wrap;
-	align-items: center;
-  }
+.form-inline {	display: flex;	flex-flow: row wrap;	align-items: center;  }
+    /* Add some margins for each label */
+.form-inline label {	margin: 5px 10px 5px 0;  }
   
-  /* Add some margins for each label */
-  .form-inline label {
-	margin: 5px 10px 5px 0;
-  }
+ /* Style the input fields */
+.form-inline input {
+vertical-align: middle;	margin: 5px 10px 5px 0;	padding: 10px;
+background-color: #fff;	border: 1px solid #ddd;  }
   
-  /* Style the input fields */
-  .form-inline input {
-	vertical-align: middle;
-	margin: 5px 10px 5px 0;
-	padding: 10px;
-	background-color: #fff;
-	border: 1px solid #ddd;
-  }
+ /* Style the submit button */
+.form-inline button {	padding: 10px 20px;	background-color: dodgerblue;border: 1px solid #ddd;color: white; }
+.form-inline button:hover {	background-color: royalblue;  }
   
-  /* Style the submit button */
-  .form-inline button {
-	padding: 10px 20px;
-	background-color: dodgerblue;
-	border: 1px solid #ddd;
-	color: white;
-  }
-  
-  .form-inline button:hover {
-	background-color: royalblue;
-  }
-  
-  /* Add responsiveness - display the form controls vertically instead of horizontally on screens that are less than 800px wide */
+  /* Add responsiveness - display the form controls vertically instead of 
+  horizontally on screens that are less than 800px wide */
   @media (max-width: 800px) {
-	.form-inline input {
-	  margin: 10px 0;
-	}
-  
-	.form-inline {
-	  flex-direction: column;
-	  align-items: stretch;
-	}
+	.form-inline input {	  margin: 10px 0;	}
+  	.form-inline {	  flex-direction: column;	  align-items: stretch;	}
   }
