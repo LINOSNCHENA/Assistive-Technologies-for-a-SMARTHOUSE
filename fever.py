@@ -51,10 +51,7 @@ plt.savefig('Plot_MSE.png')
 accuracy = muntu.evaluate(X, y)
 print("Loss, MSE, Accuracy",accuracy)
 predictions = muntu.predict_classes(X)
-for i in range(3):
+for i in range(1):
 	print('%s => %d (Sample Prediction of Fever %d)' % (X[i].tolist(), predictions[i], y[i]))
 print("======================================= END OF PREDICTION ============================")
 
-# summarize the first 5 cases
-for i in range(5):
-	print('%s => %d (expected %d)' % (X[i].tolist(), predictions[i], y[i]))

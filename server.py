@@ -25,7 +25,7 @@ def predict():
     int_features = [int(x) for x in request.form.values()]
     final_features = [np.array(int_features)]
     prediction = model.predict(final_features)
-    fever_output = 0.1*round(prediction[0], 2)
+    fever_output = 1*round(prediction[0], 2)
 
     # NOTIFICATION CODE
     if fever_output <= dangerZone:
