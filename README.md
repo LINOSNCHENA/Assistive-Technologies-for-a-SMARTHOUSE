@@ -1,4 +1,4 @@
-# FEVER NOTIFICATION SYSTEM USING MOBILE PHONE AND EMAIL
+# FEVER NOTIFICATION SYSTEM USING EMAIL AND SMS
 
 The function of this application is to connect a fever detection system to a computer application and mobile SMS systems. Below are some of the components in its implementation.
 
