@@ -7,10 +7,15 @@ conda install -c conda-forge/label/cf201901 matplotlib
 conda install -c anaconda pandas
 conda install -c anaconda scikit-learn
 
-pip install pillow
-pip install twilio flask
+pip install twilio flask tensorflow
+pip install imutils  opencv-python pillow
+pip install Keras, scikit-learn, matpolotlib, imutils, and OpenCV 
+
 npm install express twilio cron nodemailer --save
 
 activate base
 activate tf
 python fraud1.py
+
+python train.py --dataset dataset --model seniors.model --labelbin mlb.pickle
+python classify.py --model seniors.model --labelbin mlb.pickle --image visitors/visitor_1.jpg
