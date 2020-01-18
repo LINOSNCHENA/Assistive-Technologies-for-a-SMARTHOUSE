@@ -21,6 +21,6 @@ Below are some Screens shots from the application in development
 ![ Muntu App Accuracy # 1 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_ACC.png)
 ![ Muntu App Loss     # 2 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_Loss.png)
 ![ Muntu App MSE      # 3 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_MSE.png)
-![ Muntu App UX       # 4 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/snapshots/coutputlabel/page1.png)
-![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/snapshots/cOutputlabel/page2.png)
+![ Muntu App UX       # 4 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/snapshots/cOutputLabel/front.png)
+![ Muntu App SMS      # 5 ](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/snapshots/cOutputLabel/end.png)
 
