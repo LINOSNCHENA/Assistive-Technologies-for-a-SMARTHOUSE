@@ -1,12 +1,12 @@
 # set the matplotlib backend so figures can be saved in the background
 import matplotlib
-matplotlib.use("Agg")
+#matplotlib.use("Agg")
 from keras.preprocessing.image import ImageDataGenerator
 from keras.optimizers import Adam
 from keras.preprocessing.image import img_to_array
 from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.model_selection import train_test_split
-from pyimagesearch.smallervggnet import SmallerVGGNet
+from search.generalmodel import GeneralModel
 import matplotlib.pyplot as plt
 from imutils import paths
 import numpy as np
@@ -71,7 +71,7 @@ aug = ImageDataGenerator(rotation_range=25, width_shift_range=0.1,
 # initialize the model using a sigmoid activation as the final layer
 # in the network so we can perform multi-label classification
 print("[INFO #4] compiling model...")
-model = SmallerVGGNet.build(
+model = GeneralModel.build(
 	width=IMAGE_DIMS[1], height=IMAGE_DIMS[0],
 	depth=IMAGE_DIMS[2], classes=len(mlb.classes_),	finalAct="sigmoid")
 
