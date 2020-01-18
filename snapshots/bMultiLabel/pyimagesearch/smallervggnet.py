@@ -12,7 +12,6 @@ from keras import backend as K
 class SmallerVGGNet:
 	@staticmethod
 	def build(width, height, depth, classes, finalAct="softmax"):
-# def build(width, height, depth, classes, finalAct="softmax"):
 		# initialize the model along with the input shape to be
 		# "channels last" and the channels dimension itself
 		model = Sequential()

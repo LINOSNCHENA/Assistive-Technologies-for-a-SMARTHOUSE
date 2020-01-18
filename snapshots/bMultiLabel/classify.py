@@ -1,6 +1,3 @@
-# USAGE
-# python classify.py --model fashion.model --labelbin mlb.pickle --image visitors/visitor_1.jpg
-
 # import the necessary packages
 from keras.preprocessing.image import img_to_array
 from keras.models import load_model
@@ -50,6 +47,7 @@ for (i, j) in enumerate(idxs):
 # show the probabilities for each of the individual labels
 for (label, p) in zip(mlb.classes_, proba):	print("{}: {:.2f}%".format(label, p * 100))
 
-# show the output image
-cv2.imshow("Output", output)
+# Filename 
+cv2.imshow("Plot_Output.png", output)
+cv2.imwrite('Plot_Detection.png', output) 
 cv2.waitKey(0)
