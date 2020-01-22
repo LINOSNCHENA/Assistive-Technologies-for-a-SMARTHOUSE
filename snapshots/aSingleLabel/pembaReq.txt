@@ -8,7 +8,7 @@ conda install -c anaconda pandas
 conda install -c anaconda scikit-learn
 
 pip install twilio flask tensorflow Keras scikit-learn
-pip install matpolotlib imutils OpenCV imutils  opencv-python pillow
+pip install matplotlib imutils imutils  opencv-python pillow 
 
 npm install express twilio cron nodemailer --save
 
