@@ -4,6 +4,7 @@ from keras.models import Sequential
 from keras.layers import Dense
 from pandas import read_csv
 import numpy
+import pickle
 
 dataset1 = read_csv('fever1.csv', header=None)	
 dataset1[[1,2,3,4,5,6,7]] = dataset1[[1,2,3,4,5,6,7]].replace(0, numpy.NaN)
@@ -48,11 +49,19 @@ plt.legend(['ACC_Training Data', 'ACC_Validation data','Loss_Training data',
 plt.savefig('Plot_MSE.png')
 #=========================================================================================
 
-# evaluate the keras muntuz
+# evaluate the keras muntu
 accuracy = muntu.evaluate(X, y)
-print("Loss, MSE, Accuracy",accuracy)
+print('\n'+"Model-Loss, Model-MSE, Model-Accuracy",accuracy)
 predictions = muntu.predict_classes(X)
-for i in range(1):
-	print('%s => %d (Sample Prediction of Fever %d)' % (X[i].tolist(), predictions[i], y[i]))
-print("================================== END OF PREDICTION ================================")
+print(X)
+print(y)
+print('\n'+'|================ MODEL PREDICTIONS  IN FIVE DIFFERENT SAMPLES ================|'+'\n')
+for i in range(5):
+	print('%s => %d (Prediction of fever in this subject is %d)' % (X[i].tolist(), predictions[i], y[i]))
+print('\n'+"|============================END OF PREDICTIONS ================================|"+'\n')
 
+
+pemba = Sequential()
+# pemba.fit(X, y,batch_size=4)
+pickle.dump(history, open('pemba.pkl','wb'))
+pemba = pickle.load(open('pemba.pkl','rb'))

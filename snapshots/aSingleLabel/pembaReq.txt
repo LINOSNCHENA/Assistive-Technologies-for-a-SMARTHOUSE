@@ -6,11 +6,14 @@ conda install -c conda-forge/label/cf201901 keras
 conda install -c conda-forge/label/cf201901 matplotlib
 conda install -c anaconda pandas
 conda install -c anaconda scikit-learn
-
 pip install twilio flask tensorflow Keras scikit-learn
-pip install matplotlib imutils imutils  opencv-python pillow 
 
+## OPTIONS
+
+pip install matplotlib imutils imutils  opencv-python pillow 
 npm install express twilio cron nodemailer --save
+
+## USAGE
 
 python train.py --dataset dataset --model seniors.model --labelbin mlb.pickle
 python classify.py --model seniors.model --labelbin mlb.pickle --image visitors/visitor_5.jpg
