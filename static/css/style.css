@@ -5,7 +5,7 @@ body {
 	font-size: 24px;	text-align:center;	letter-spacing:1.4px;
 }
 .login { 
-	position: absolute;	top: 30%;	left:40%;
+	position: absolute;	top: 15%;	left:40%;
 	margin: -150px 0 0 -150px;	width:500px;	height:450px;}
 
 .login h1 { color: #fff; text-shadow: 0 0 10px rgba(0,0,0,0.3); 
