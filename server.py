@@ -4,7 +4,7 @@ import pickle
 from twilio.rest import Client
 from numpy import array
 app = Flask(__name__)
-model = pickle.load(open('xmuntu2.pkl', 'rb'))
+model = pickle.load(open('xmuntu1.pkl', 'rb'))
 
 @app.route('/')
 def home():    
@@ -37,19 +37,21 @@ def predict():
     else:
         print("Fever Test Detected Danger Breatch: BAD")
       #  message = client.messages.create( body='| '+ '\n\n'+sms1+'\n\n'+' |'
-       # ,from_='xx806 1779', to='xxx004')
+       # ,from_='xx806 172789', to='xxx0040')
         #print(message)
         print("===========================================") 
-    return render_template('index.html', prediction_level='Fever Lever: {}'.format(fever_output)+"-:Probability")
+    return render_template('index.html', prediction_level='Fever Lever: {}'.format(fever_output)+"-:PerCent%")
 
 @app.route('/results',methods=['POST'])
 def results():
-    data = request.get_json(force=True)
-    prediction = model.predict([np.array(list(data.values()))])
-    fever_output = prediction[0]
-    print("====================RESULTS_A============================")
+    enterData = request.get_json(force=True)
+    prediction = model.predict([np.array(list(enterData.values()))])
+    prediction = model.predict(enterData.values())
+   # fever_output = prediction[0]
+    fever_output = prediction
+    print("==================== RESULTS_A============================")
     print(fever_output)
-    print("====================RESULTS_B============================")
+    print("==================== RESULTS_B============================")
     return jsonify(fever_output)
 
 if __name__ == "__main__":

@@ -57,13 +57,13 @@ print("Retrived xmodel1 from Choma")
 #*******************************************************************************************#2
 xmodel1.compile(loss='binary_crossentropy', optimizer='rmsprop', metrics=['accuracy'])
 klassx = xmodel1.evaluate(X, Y, verbose=0)  # one
-print("%s:MONZE OPTION1 %.2f%%" % (xmodel1.metrics_names[1], klassx[1]*100))
+print("%s:MONZEX8X OPTION #1 %.2f%%" % (xmodel1.metrics_names[1], klassx[1]*100))
 xmodel2.compile(loss='binary_crossentropy', optimizer='rmsprop', metrics=['mse','acc'])
 klassy = xmodel2.evaluate(X, Y, verbose=0) #three
-print("%s:PEMBA SECOND OPTION2 %.2f%%" % (xmodel2.metrics_names[2], klassy[2]*100))
+print("%s:TEEN CHILANGA OPTION #2 %.2f%%" % (xmodel2.metrics_names[2], klassy[2]*100))
 xmodel3.compile(loss='binary_crossentropy', optimizer='rmsprop', metrics=['mse','acc'])
 klassz = xmodel3.evaluate(X, Y, verbose=0) #three
-print("%s:PEMBA THIRDD OPTION3 %.2f%%" % (xmodel3.metrics_names[2], klassz[2]*100))
+print("%s:TEEN CHOMAX8X OPTION #3 %.2f%%" % (xmodel3.metrics_names[2], klassz[2]*100))
 
 #*******************************************************************************************#3
 accuracy1 = xmodel1.evaluate(X, Y)
@@ -91,41 +91,32 @@ box2Size=(len(box2))
 print('\n'+"======================= PREDICTION RESULTS FOR CITIZEN (A) ================= #2"+'\n')
 if box1.sum() > box1Size*30/100:
   print(box1)
-  print('UNITSTotal : %d Sensored Errors : %d GREATER than 30-Threshold @: %.2f%%' % 
+  print('UNITS_Total : %d Errors_FOUND : %d GREATER than 30-Threshold @: %.2f%%' % 
   (box1Size, box1.sum(), 100*box1.sum()/box1Size))
 elif box1.sum() == box1Size*30/100:
   print(box1)
-  print('UNITSTotal : %d Sensored Errors : %d is EQUAL to t30-Threshold @: %.2f%%' % 
+  print('UNITS_Total : %d Errors_FOUND : %d is EQUAL to t30-Threshold @: %.2f%%' % 
   (box1Size, box1.sum(), 100*box1.sum()/box1Size))
 else:
   print(box1)
-  print('UNITSTotal : %d Sensored Errors :  %d LESSER than 30-Threshold @: %.2f%%' % 
+  print('UNITS_Total : %d Errors_FOUND :  %d LESSER than 30-Threshold @: %.2f%%' % 
   (box1Size, box1.sum(), 100*box1.sum()/box1Size))
 
 print('\n'+"======================= PREDICTION RESULTS FOR CITIZEN (B) ================== #2"+'\n')
 if box2.sum() > box2Size*30/100:
   print(box2)
-  print('UNITSTotal : %d Sensored Errors : %d GREATER than 30-Threshold @: %.2f%%' % 
+  print('UNITS_Total : %d Errors_FOUND : %d GREATER than 30-Threshold @: %.2f%%' % 
   (box2Size, box2.sum(), 100*box2.sum()/box2Size))
 elif box2.sum() == box2Size*30/100:
   print(box2)
-  print('UNITSTotal : %d Sensored Errors : %d is EQUAL to t30-Threshold @: %.2f%%' % 
+  print('UNITS_Total : %d Errors_FOUND : %d is EQUAL to t30-Threshold @: %.2f%%' % 
   (box2Size, box2.sum(), 100*box2.sum()/box2Size))
 else:
   print(box2)
-  print('UNITSTotal : %d Sensored Errors :  %d LESSER than 30-Threshold @: %.2f%%' % 
+  print('UNITS_Total : %d Errors_FOUND :  %d LESSER than 30-Threshold @: %.2f%%' % 
   (box2Size, box2.sum(), 100*box2.sum()/box2Size))
 
-#*******************************************************************************************#6
-print('\n'+"|===================TRAINING REPORT START==========================|"+'\n')
-#for i in range(len(q1)):
-  #  print('%s units=> %d (Box4Rusults are %d)' % (q1[i].tolist(),  [len(q1)], Y[i]))
-print('\n'+"|===================================================================|"+'\n')
-#for i in range(len(q2)):
-   # print('%s units=> %d (BoxRusults are %d)' % (q2[i].tolist(), [len(q2)], Y[i]))
-print('\n'+"|===================================================================|"+'\n')
-
-#============================================================================================#7
+print('\n'+"======================================= END =================================== #2"+'\n')
 # plot metrics from trained model	//	# summarize history for accuracy	 	        # 1
 plt.plot(history.history['acc'])
 plt.plot(history.history['val_acc'])
