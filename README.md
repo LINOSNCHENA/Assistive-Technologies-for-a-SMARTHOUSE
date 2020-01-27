@@ -1,6 +1,6 @@
 # FEVER NOTIFICATION SYSTEM USING EMAIL AND SMS
 
-The function of this application is to connect a fever detection system to a computer application and mobile SMS systems. Below are some of the components in its implementation.
+The purpose and aim of this application is to actualise the ability of a system to connect a fever detection artificial intelligience system to a computer/mobile client application and use clients SMS/notification systems. The system consist of three subsystems. Below are some of the components in its implementation.
 
 ## Devices and Components
 1. Sensors and PC

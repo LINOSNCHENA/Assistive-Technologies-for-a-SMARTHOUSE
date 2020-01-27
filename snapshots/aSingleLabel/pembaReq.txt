@@ -6,13 +6,14 @@ conda install -c conda-forge/label/cf201901 keras
 conda install -c conda-forge/label/cf201901 matplotlib
 conda install -c anaconda pandas
 conda install -c anaconda scikit-learn
-pip install twilio flask tensorflow Keras scikit-learn
+pip install twilio flask tensorflow Keras scikit-learn pandas
 
 ## OPTIONS
 
 pip install matplotlib imutils imutils  opencv-python pillow 
 npm install express twilio cron nodemailer --save
-
+pip install tensorflow-gpu==1.15.1
+pip install tensorflow==1.15
 ## USAGE
 
 python train.py --dataset dataset --model seniors.model --labelbin mlb.pickle
