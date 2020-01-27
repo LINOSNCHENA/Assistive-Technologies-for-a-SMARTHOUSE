@@ -34,7 +34,7 @@ print("\n"+"MANUFUCTURING OF THE BANTU AND MUNTU PREDICTION MODELS"+"\n"+
 
 # Save the trained model2 as a pickle string. 
 pickle.dump(muntu, open('xmuntu1.pkl','wb'))
-print("Saved xmodel1 to disk Monze")
+print("\n"+"Saved xmodel1 to disk Monze")
 xmodel2 = pickle.load(open('xmuntu1.pkl','rb'))
 print("Retrived xmodel1 from Monze")
 

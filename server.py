@@ -14,14 +14,13 @@ def home():
 def predict():
     dangerZone=0.5
     account_sid = 'xxx'
-    auth_token = 'xx'
+    auth_token  = 'xx'
     client = Client(account_sid, auth_token)
     sms1 = 'WARNING! FEVER FOR SENIOR CITIZEN #33 HAS ENTERED THE DANGER ZONE!'
     recieved_features = [float(x) for x in request.form.values()]
     proccessed_features = [np.array(recieved_features)]
     # list to array of data processed_features
     processed_features = array(proccessed_features)
-    # reshape
     processed_features = processed_features.reshape((processed_features.shape[0], 8))
     prediction = model.predict(processed_features)   
     # Extract first element in prediction array
@@ -32,10 +31,10 @@ def predict():
      
     # NOTIFICATION CODE
     if fever_output == dangerZone:
-        print("Fever Test is Outside DangerZone: GOOD")
+        print("Fever Test is NEGETIVE: RELAXING")
         print("==========================================")
     else:
-        print("Fever Test Detected Danger Breatch: BAD")
+        print("Fever Test is POSITIVE: ATTENTION")
       #  message = client.messages.create( body='| '+ '\n\n'+sms1+'\n\n'+' |'
        # ,from_='xx806 172789', to='xxx0040')
         #print(message)
@@ -45,13 +44,10 @@ def predict():
 @app.route('/results',methods=['POST'])
 def results():
     enterData = request.get_json(force=True)
-    prediction = model.predict([np.array(list(enterData.values()))])
-    prediction = model.predict(enterData.values())
+   # prediction = model.predict([np.array(list(enterData.values()))])
+   # prediction = model.predict(enterData.values())
+    prediction = model.predict(enterData)
    # fever_output = prediction[0]
-    fever_output = prediction
-    print("==================== RESULTS_A============================")
-    print(fever_output)
-    print("==================== RESULTS_B============================")
     return jsonify(fever_output)
 
 if __name__ == "__main__":
