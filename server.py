@@ -44,10 +44,10 @@ def predict():
 @app.route('/results',methods=['POST'])
 def results():
     enterData = request.get_json(force=True)
-   # prediction = model.predict([np.array(list(enterData.values()))])
+    prediction = model.predict([np.array(list(enterData.values()))])
    # prediction = model.predict(enterData.values())
-    prediction = model.predict(enterData)
-   # fever_output = prediction[0]
+    #prediction = model.predict(enterData)
+    fever_output = prediction[0]
     return jsonify(fever_output)
 
 if __name__ == "__main__":
