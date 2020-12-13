@@ -10,28 +10,23 @@ Do not use ordinary python. Rather use condo enviroment for ANN and ML
 conda activate deeplearning
 pip install flask
 pip install twilio
-
 -----------------------------
 python serverMaker.py
 python server.py
 python request.py
+
 ```
 
 ## Devices and Components
+
 1. Sensors and PC
 2. Server and Website
 3. Phone and PC
-
-## Structure pictures
-1. Code-backend
-2. Code-frontend
-3. API -Middleware
-
-## OUTPUT METHODS
-1. SMS Python and NodeJS
-2. Email Python/Nodejs
+4. SMS Python and NodeJS
+5. Email Python/Nodejs
 
 ## INTERFACE UX
+
 Here are screens shots from the application accuracy plots and User experiece interfaces
 
 ![Muntu #1](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_ACC.png)
