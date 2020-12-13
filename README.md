@@ -19,10 +19,10 @@ python request.py
 
 ## Devices and Components
 
-1. Sensors and PC
-2. Server and Website
-3. Phone and PC
-4. SMS Python and NodeJS
+1. Sensors and PC server
+2. Server and Website-UI
+3. Server, Tablet-UI and Phone-UI 
+4. SMS Python/NodeJS
 5. Email Python/Nodejs
 
 ## INTERFACE UX
@@ -32,5 +32,5 @@ Here are screens shots from the application accuracy plots and User experiece in
 ![Muntu #1](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_ACC.png)
 ![Muntu #2](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_Loss.png)
 ![Muntu #3](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_MSE.png)
-![M#4](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/snapshots/cOutputLabel/front.png)
-![M#5](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/snapshots/cOutputLabel/end.png)
+![M#4](https://github.com/LINOSNCHENA/Python-Monitoring-ATs-for-a-Smarthouse/blob/master/works/cOutputLabel/front.png)
+![M#5](https://github.com/LINOSNCHENA/Python-Monitoring-ATs-for-a-Smarthouse/blob/master/works/cOutputLabel/end.pngg)
