@@ -33,4 +33,4 @@ Here are screens shots from the application accuracy plots and User experiece in
 ![Muntu #2](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_Loss.png)
 ![Muntu #3](https://github.com/LINOSNCHENA/Assistive-Technologies-for-a-SMARTHOUSE/blob/master/Plot_MSE.png)
 ![M#4](https://github.com/LINOSNCHENA/Python-Monitoring-ATs-for-a-Smarthouse/blob/master/works/cOutputLabel/front.png)
-![M#5](https://github.com/LINOSNCHENA/Python-Monitoring-ATs-for-a-Smarthouse/blob/master/works/cOutputLabel/end.pngg)
+![M#5](https://github.com/LINOSNCHENA/Python-Monitoring-ATs-for-a-Smarthouse/blob/master/works/cOutputLabel/end.png)
