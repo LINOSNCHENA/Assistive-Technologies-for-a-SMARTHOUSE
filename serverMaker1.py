@@ -18,14 +18,14 @@ bantu.add(Dense(8, activation='relu'))
 bantu.add(Dense(1, activation='sigmoid'))
 bantu.compile(loss='binary_crossentropy', optimizer='adam', metrics=['acc','mse'])
 bantu.fit(X, Y, epochs=300, batch_size=4, verbose=0)
-history = bantu.fit(X, Y,validation_split=0.33, epochs=30, batch_size=4, verbose=0)
+history = bantu.fit(X, Y,validation_split=0.33, epochs=300, batch_size=4, verbose=0)
 #=============================================================================================
 muntu = Sequential()
 muntu.add(Dense(16, input_dim=8, activation='elu'))
 muntu.add(Dense(8, activation='elu'))
 muntu.add(Dense(1, activation='sigmoid'))
 muntu.compile(loss='binary_crossentropy', optimizer='Adam', metrics=['mse','acc'])
-history = muntu.fit(X, Y,validation_split=0.33, epochs=30, batch_size=4, verbose=0)
+history = muntu.fit(X, Y,validation_split=0.33, epochs=300, batch_size=4, verbose=0)
 #=============================================================================================#1
 # Save the trained model as a JSON file. 
 print("\n"+"MANUFUCTURING OF THE BANTU AND MUNTU PREDICTION MODELS"+"\n"+
@@ -33,30 +33,27 @@ print("\n"+"MANUFUCTURING OF THE BANTU AND MUNTU PREDICTION MODELS"+"\n"+
 
 
 # Save the trained model2 as a pickle string. 
-# pickle.dump(muntu, open('xmuntu1.pkl','wb'))
-# print("\n"+"Saved xmodel1 to disk Monze")
-# xmodel2 = pickle.load(open('xmuntu1.pkl','rb'))
-# print("Retrived xmodel1 from Monze")
+pickle.dump(muntu, open('xmuntu1.pkl','wb'))
+print("\n"+"Saved xmodel1 to disk Monze")
+xmodel2 = pickle.load(open('xmuntu1.pkl','rb'))
+print("Retrived xmodel1 from Monze")
 
-# # Save the trained model3 as a pickle string. 
-# pickle.dump(bantu, open('xmuntu2.pkl','wb'))
-# print("Saved xmodel2 to disk Chilanga")
-# xmodel3 = pickle.load(open('xmuntu2.pkl','rb'))
-# print("Retrived xmodel2 from Chilanga")
+# Save the trained model3 as a pickle string. 
+pickle.dump(bantu, open('xmuntu2.pkl','wb'))
+print("Saved xmodel2 to disk Chilanga")
+xmodel3 = pickle.load(open('xmuntu2.pkl','rb'))
+print("Retrived xmodel2 from Chilanga")
 
-# model_json = bantu.to_json()
-# with open("zbantu3.json", "w") as json_file:    json_file.write(model_json)
-# bantu.save_weights("zbantu3.h5")
-# print("Saved xmodel1 to disk Choma")
-# json_file = open('zbantu3.json', 'r')
-# xmodel_json = json_file.read()
-# json_file.close()
-# xmodel1 = model_from_json(xmodel_json)
-# xmodel1.load_weights("zbantu3.h5")
-# print("Retrived xmodel1 from Choma")
-xmodel1=muntu
-xmodel2=bantu
-xmodel3=muntu
+model_json = bantu.to_json()
+with open("zbantu3.json", "w") as json_file:    json_file.write(model_json)
+bantu.save_weights("zbantu3.h5")
+print("Saved xmodel1 to disk Choma")
+json_file = open('zbantu3.json', 'r')
+xmodel_json = json_file.read()
+json_file.close()
+xmodel1 = model_from_json(xmodel_json)
+xmodel1.load_weights("zbantu3.h5")
+print("Retrived xmodel1 from Choma")
 #*******************************************************************************************#2
 xmodel1.compile(loss='binary_crossentropy', optimizer='rmsprop', metrics=['accuracy'])
 klassx = xmodel1.evaluate(X, Y, verbose=0)  # one
@@ -129,7 +126,6 @@ plt.xlabel('epoch')
 plt.legend(['ACC_Training Data', 'ACC_Validation data','Loss_Training data',
 'Loss_Validation data','MSE_Training data','MSE_Validation data'], loc='best')
 plt.savefig('Plot_ACC.png')
-plt.show()
 # plot metrics from trained model	//	# summarize history for loss		           	# 2
 plt.plot(history.history['loss'])
 plt.plot(history.history['val_loss'])
@@ -139,7 +135,6 @@ plt.xlabel('epoch')
 plt.legend(['ACC_Training Data', 'ACC_Validation data','Loss_Training data',
 'Loss_Validation data','MSE_Training data','MSE_Validation data'], loc='best')
 plt.savefig('Plot_Loss.png')
-plt.show()
 # plot metrics from trained //	# summarize history for mean_squared_error          # 3
 plt.plot(history.history['mse'])
 plt.plot(history.history['val_mse'])
@@ -149,5 +144,4 @@ plt.xlabel('epoch')
 plt.legend(['ACC_Training Data', 'ACC_Validation data','Loss_Training data',
 'Loss_Validation data','MSE_Training data','MSE_Validation data'], loc='best')
 plt.savefig('Plot_MSE.png')
-plt.show()
 #===========================================================================================#8
