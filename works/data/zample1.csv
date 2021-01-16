@@ -1,0 +1,462 @@
+Ports,Region,Cntr Cycle Name,Cntr No,Cntr Size,cntr_trxn_id,Dpd Dpe,In Time,Is Empty,Max,orgname,Out Time,Transportmode
+APSEZ,Western,EXPORT,TRHU1678537,20,,,18/7/2020 03:55,,32349328,Adani International Container Terminal (AICTPL),26/7/2020 07:20,RAIL
+APSEZ,Western,EXPORT,BMOU2427550,20,,,20/7/2020 06:40,,32815829,Adani International Container Terminal (AICTPL),26/7/2020 06:37,RAIL
+APSEZ,Western,EXPORT,MEDU3420566,20,,,20/7/2020 05:07,,32817886,Adani International Container Terminal (AICTPL),26/7/2020 06:37,RAIL
+APSEZ,Western,EXPORT,TRHU1550607,20,,,20/7/2020 06:02,,32825786,Adani International Container Terminal (AICTPL),26/7/2020 11:38,RAIL
+APSEZ,Western,EXPORT,FCIU5765672,20,,,20/7/2020 04:54,,32831758,Adani International Container Terminal (AICTPL),26/7/2020 06:51,RAIL
+APSEZ,Western,EXPORT,TCLU7688125,20,,,22/7/2020 00:11,,32838628,Adani International Container Terminal (AICTPL),26/7/2020 11:33,RAIL
+APSEZ,Western,EXPORT,MEDU6795838,20,,,20/7/2020 19:18,,32841567,Adani International Container Terminal (AICTPL),26/7/2020 08:38,RAIL
+APSEZ,Western,EXPORT,MEDU2025340,20,,,20/7/2020 09:35,,32843242,Adani International Container Terminal (AICTPL),26/7/2020 08:30,RAIL
+APSEZ,Western,EXPORT,MEDU3077605,20,,,20/7/2020 09:15,,32844040,Adani International Container Terminal (AICTPL),26/7/2020 11:29,RAIL
+APSEZ,Western,EXPORT,CAIU2522428,20,,,17/7/2020 21:23,,32882401,Adani International Container Terminal (AICTPL),26/7/2020 11:29,RAIL
+APSEZ,Western,EXPORT,BEAU2779089,20,,,12/7/2020 01:36,,32923451,Adani International Container Terminal (AICTPL),26/7/2020 07:36,RAIL
+APSEZ,Western,EXPORT,MEDU6700508,20,,,11/7/2020 03:38,,32927211,Adani International Container Terminal (AICTPL),26/7/2020 10:42,RAIL
+APSEZ,Western,EXPORT,DRYU2696523,20,,,18/7/2020 18:04,,32950142,Adani International Container Terminal (AICTPL),26/7/2020 08:45,RAIL
+APSEZ,Western,EXPORT,TCKU1486140,20,,,17/7/2020 21:46,,32956331,Adani International Container Terminal (AICTPL),26/7/2020 11:21,RAIL
+APSEZ,Western,EXPORT,CAIU3173188,20,,,17/7/2020 22:45,,32957390,Adani International Container Terminal (AICTPL),26/7/2020 10:50,RAIL
+APSEZ,Western,EXPORT,FCIU3711569,20,,,17/7/2020 21:46,,32965180,Adani International Container Terminal (AICTPL),26/7/2020 11:21,RAIL
+APSEZ,Western,EXPORT,MSCU1572835,20,,,17/7/2020 22:48,,32965206,Adani International Container Terminal (AICTPL),26/7/2020 11:15,RAIL
+APSEZ,Western,EXPORT,FCIU3825772,20,,,11/7/2020 20:31,,33150019,Adani International Container Terminal (AICTPL),26/7/2020 06:40,RAIL
+APSEZ,Western,EXPORT,FCIU4590013,20,,,19/7/2020 19:00,,33175325,Adani International Container Terminal (AICTPL),26/7/2020 08:51,RAIL
+APSEZ,Western,EXPORT,TEMU2026550,20,,,12/7/2020 19:01,,33180689,Adani International Container Terminal (AICTPL),26/7/2020 06:40,RAIL
+APSEZ,Western,EXPORT,TCLU3418287,20,,,12/7/2020 02:05,,33530454,Adani International Container Terminal (AICTPL),26/7/2020 06:48,RAIL
+APSEZ,Western,EXPORT,TTNU1834032,20,,,21/7/2020 18:23,,33585794,Adani International Container Terminal (AICTPL),26/7/2020 09:03,RAIL
+APSEZ,Western,EXPORT,DRYU2579342,20,,,20/7/2020 15:40,,33622357,Adani International Container Terminal (AICTPL),26/7/2020 06:58,RAIL
+APSEZ,Western,EXPORT,MSCU3383527,20,,,20/7/2020 04:16,,33728924,Adani International Container Terminal (AICTPL),26/7/2020 07:43,RAIL
+APSEZ,Western,EXPORT,TGHU1819145,20,,,18/7/2020 05:14,,33818568,Adani International Container Terminal (AICTPL),26/7/2020 06:16,RAIL
+APSEZ,Western,EXPORT,TGHU0239991,20,,,20/7/2020 09:15,,33847449,Adani International Container Terminal (AICTPL),26/7/2020 11:35,RAIL
+APSEZ,Western,EXPORT,GATU1174109,20,,,16/7/2020 15:55,,33932977,Adani International Container Terminal (AICTPL),26/7/2020 11:42,RAIL
+APSEZ,Western,EXPORT,MSCU6146391,20,,,17/7/2020 22:45,,34117764,Adani International Container Terminal (AICTPL),26/7/2020 10:50,RAIL
+APSEZ,Western,EXPORT,MSCU6095247,20,,,21/7/2020 20:41,,34158436,Adani International Container Terminal (AICTPL),26/7/2020 11:42,RAIL
+APSEZ,Western,EXPORT,MSCU2581195,20,,,20/7/2020 08:59,,34158520,Adani International Container Terminal (AICTPL),26/7/2020 11:35,RAIL
+APSEZ,Western,EXPORT,MSCU2576202,20,,,22/7/2020 01:58,,34158962,Adani International Container Terminal (AICTPL),26/7/2020 11:20,RAIL
+APSEZ,Western,EXPORT,MSCU6775434,20,,,20/7/2020 08:59,,34159133,Adani International Container Terminal (AICTPL),26/7/2020 11:38,RAIL
+APSEZ,Western,EXPORT,TEMU3946548,20,,,21/7/2020 21:51,,34165667,Adani International Container Terminal (AICTPL),26/7/2020 11:37,RAIL
+APSEZ,Western,EXPORT,MEDU2582599,20,,,22/7/2020 00:12,,34165668,Adani International Container Terminal (AICTPL),26/7/2020 11:26,RAIL
+APSEZ,Western,EXPORT,MSCU6688978,20,,,21/7/2020 21:51,,34185305,Adani International Container Terminal (AICTPL),26/7/2020 11:37,RAIL
+APSEZ,Western,EXPORT,EISU2171091,20,,,17/7/2020 07:22,,34206600,Adani International Container Terminal (AICTPL),26/7/2020 07:06,RAIL
+APSEZ,Western,EXPORT,CARU3667696,20,,,20/7/2020 04:54,,34209224,Adani International Container Terminal (AICTPL),26/7/2020 06:43,RAIL
+APSEZ,Western,EXPORT,MSCU6886968,20,,,11/7/2020 03:05,,34210045,Adani International Container Terminal (AICTPL),26/7/2020 10:35,RAIL
+APSEZ,Western,EXPORT,EITU0553648,20,,,18/7/2020 01:52,,34224696,Adani International Container Terminal (AICTPL),26/7/2020 05:37,RAIL
+APSEZ,Western,EXPORT,MEDU3477263,20,,,20/7/2020 04:31,,34234786,Adani International Container Terminal (AICTPL),26/7/2020 06:52,RAIL
+APSEZ,Western,EXPORT,BMOU2644909,20,,,13/7/2020 22:12,,34235562,Adani International Container Terminal (AICTPL),26/7/2020 07:26,RAIL
+APSEZ,Western,EXPORT,MEDU6503710,20,,,12/7/2020 02:22,,34237631,Adani International Container Terminal (AICTPL),26/7/2020 07:38,RAIL
+APSEZ,Western,EXPORT,MEDU2900658,20,,,21/7/2020 23:54,,34245031,Adani International Container Terminal (AICTPL),26/7/2020 11:33,RAIL
+APSEZ,Western,EXPORT,FCIU3955061,20,,,17/7/2020 10:47,,34262761,Adani International Container Terminal (AICTPL),26/7/2020 06:06,RAIL
+APSEZ,Western,EXPORT,TRHU1904146,20,,,18/7/2020 07:40,,34272483,Adani International Container Terminal (AICTPL),26/7/2020 06:04,RAIL
+APSEZ,Western,EXPORT,FCIU5622429,20,,,22/7/2020 00:38,,34290387,Adani International Container Terminal (AICTPL),26/7/2020 09:22,RAIL
+APSEZ,Western,EXPORT,TCLU3007590,20,,,22/7/2020 00:12,,34290436,Adani International Container Terminal (AICTPL),26/7/2020 11:26,RAIL
+APSEZ,Western,EXPORT,MEDU5349370,20,,,14/7/2020 01:26,,34302904,Adani International Container Terminal (AICTPL),26/7/2020 06:09,RAIL
+APSEZ,Western,EXPORT,FCIU3673129,20,,,14/7/2020 06:53,,34308507,Adani International Container Terminal (AICTPL),26/7/2020 11:48,RAIL
+APSEZ,Western,EXPORT,FCIU4330593,20,,,14/7/2020 06:53,,34308508,Adani International Container Terminal (AICTPL),26/7/2020 11:47,RAIL
+APSEZ,Western,EXPORT,MEDU3288207,20,,,14/7/2020 06:44,,34308542,Adani International Container Terminal (AICTPL),26/7/2020 07:32,RAIL
+APSEZ,Western,EXPORT,TRHU2179430,20,,,18/7/2020 10:27,,34313246,Adani International Container Terminal (AICTPL),26/7/2020 11:48,RAIL
+APSEZ,Western,EXPORT,MEDU6263326,20,,,22/7/2020 00:38,,34322608,Adani International Container Terminal (AICTPL),26/7/2020 08:46,RAIL
+APSEZ,Western,EXPORT,TRHU3177323,20,,,18/7/2020 12:00,,34347862,Adani International Container Terminal (AICTPL),26/7/2020 06:13,RAIL
+APSEZ,Western,EXPORT,FSCU3376916,20,,,16/7/2020 01:34,,34379459,Adani International Container Terminal (AICTPL),26/7/2020 07:22,RAIL
+APSEZ,Western,EXPORT,MSCU3562060,20,,,16/7/2020 01:11,,34379492,Adani International Container Terminal (AICTPL),26/7/2020 07:22,RAIL
+APSEZ,Western,EXPORT,DRYU2576003,20,,,17/7/2020 18:10,,34401071,Adani International Container Terminal (AICTPL),26/7/2020 05:36,RAIL
+APSEZ,Western,EXPORT,TEMU0127623,20,,,17/7/2020 00:33,,34412296,Adani International Container Terminal (AICTPL),26/7/2020 05:34,RAIL
+APSEZ,Western,EXPORT,EISU2189059,20,,,18/7/2020 05:02,,34420389,Adani International Container Terminal (AICTPL),26/7/2020 07:01,RAIL
+APSEZ,Western,EXPORT,SLSU2028760,20,,,21/7/2020 05:50,,34437844,Adani International Container Terminal (AICTPL),26/7/2020 06:57,RAIL
+APSEZ,Western,EXPORT,EITU0598982,20,,,19/7/2020 01:25,,34443301,Adani International Container Terminal (AICTPL),26/7/2020 08:17,RAIL
+APSEZ,Western,EXPORT,FCIU2813967,20,,,19/7/2020 00:56,,34443302,Adani International Container Terminal (AICTPL),26/7/2020 10:40,RAIL
+APSEZ,Western,EXPORT,MEDU2095266,20,,,17/7/2020 22:48,,34444338,Adani International Container Terminal (AICTPL),26/7/2020 11:16,RAIL
+APSEZ,Western,EXPORT,CRSU1430872,20,,,17/7/2020 18:50,,34444349,Adani International Container Terminal (AICTPL),26/7/2020 07:48,RAIL
+APSEZ,Western,EXPORT,TGHU1800200,20,,,19/7/2020 10:47,,34450004,Adani International Container Terminal (AICTPL),26/7/2020 07:34,RAIL
+APSEZ,Western,EXPORT,DRYU2269938,20,,,21/7/2020 01:19,,34454701,Adani International Container Terminal (AICTPL),26/7/2020 09:56,RAIL
+APSEZ,Western,EXPORT,MEDU2734691,20,,,18/7/2020 01:19,,34457956,Adani International Container Terminal (AICTPL),26/7/2020 06:16,RAIL
+APSEZ,Western,EXPORT,CSLU1571115,20,,,20/7/2020 15:54,,34461857,Adani International Container Terminal (AICTPL),26/7/2020 07:04,RAIL
+APSEZ,Western,EXPORT,EGHU3690704,20,,,18/7/2020 18:22,,34462869,Adani International Container Terminal (AICTPL),26/7/2020 09:55,RAIL
+APSEZ,Western,EXPORT,EITU3014974,20,,,18/7/2020 18:46,,34462871,Adani International Container Terminal (AICTPL),26/7/2020 09:38,RAIL
+APSEZ,Western,EXPORT,EGHU3266996,20,,,19/7/2020 13:48,,34465612,Adani International Container Terminal (AICTPL),26/7/2020 06:38,RAIL
+APSEZ,Western,EXPORT,EITU0274134,20,,,19/7/2020 13:42,,34465613,Adani International Container Terminal (AICTPL),26/7/2020 05:34,RAIL
+APSEZ,Western,EXPORT,BHCU3108672,20,,,16/7/2020 19:24,,34466725,Adani International Container Terminal (AICTPL),26/7/2020 07:32,RAIL
+APSEZ,Western,EXPORT,ZIMU1400398,20,,,20/7/2020 20:39,,34472315,Adani International Container Terminal (AICTPL),26/7/2020 11:46,RAIL
+APSEZ,Western,EXPORT,TCLU3620560,20,,,18/7/2020 14:55,,34472865,Adani International Container Terminal (AICTPL),26/7/2020 08:45,RAIL
+APSEZ,Western,EXPORT,MEDU3273948,20,,,21/7/2020 03:08,,34478705,Adani International Container Terminal (AICTPL),26/7/2020 09:47,RAIL
+APSEZ,Western,EXPORT,FCIU3532199,20,,,20/7/2020 19:18,,34486654,Adani International Container Terminal (AICTPL),26/7/2020 07:10,RAIL
+APSEZ,Western,EXPORT,GLDU2227170,20,,,20/7/2020 05:07,,34486655,Adani International Container Terminal (AICTPL),26/7/2020 06:43,RAIL
+APSEZ,Western,EXPORT,MEDU2787259,20,,,20/7/2020 04:16,,34486659,Adani International Container Terminal (AICTPL),26/7/2020 07:43,RAIL
+APSEZ,Western,EXPORT,TCLU2077720,20,,,20/7/2020 17:22,,34486669,Adani International Container Terminal (AICTPL),26/7/2020 10:40,RAIL
+APSEZ,Western,EXPORT,BSIU2694382,20,,,18/7/2020 10:58,,34489657,Adani International Container Terminal (AICTPL),26/7/2020 07:32,RAIL
+APSEZ,Western,EXPORT,DRYU2741392,20,,,20/7/2020 02:33,,34490368,Adani International Container Terminal (AICTPL),26/7/2020 07:07,RAIL
+APSEZ,Western,EXPORT,MEDU5210260,20,,,20/7/2020 09:35,,34491438,Adani International Container Terminal (AICTPL),26/7/2020 06:27,RAIL
+APSEZ,Western,EXPORT,EISU2173330,20,,,19/7/2020 13:48,,34503829,Adani International Container Terminal (AICTPL),26/7/2020 06:15,RAIL
+APSEZ,Western,EXPORT,TLLU2015140,20,,,19/7/2020 13:17,,34503856,Adani International Container Terminal (AICTPL),26/7/2020 06:11,RAIL
+APSEZ,Western,EXPORT,MSCU3397963,20,,,22/7/2020 01:15,,34525296,Adani International Container Terminal (AICTPL),26/7/2020 10:22,RAIL
+APSEZ,Western,EXPORT,MEDU6377680,20,,,20/7/2020 02:29,,34529853,Adani International Container Terminal (AICTPL),26/7/2020 07:04,RAIL
+APSEZ,Western,EXPORT,UETU2304658,20,,,20/7/2020 16:34,,34538451,Adani International Container Terminal (AICTPL),26/7/2020 06:58,RAIL
+APSEZ,Western,EXPORT,MEDU2080179,20,,,20/7/2020 06:40,,34538789,Adani International Container Terminal (AICTPL),26/7/2020 10:22,RAIL
+APSEZ,Western,EXPORT,MEDU5625040,20,,,21/7/2020 23:21,,34542224,Adani International Container Terminal (AICTPL),26/7/2020 09:34,RAIL
+APSEZ,Western,EXPORT,TCLU2714406,20,,,21/7/2020 20:41,,34543778,Adani International Container Terminal (AICTPL),26/7/2020 11:42,RAIL
+APSEZ,Western,EXPORT,CAXU3153244,20,,,23/7/2020 17:06,,34544127,Adani International Container Terminal (AICTPL),26/7/2020 09:36,RAIL
+APSEZ,Western,EXPORT,FCIU3761770,20,,,23/7/2020 14:17,,34544131,Adani International Container Terminal (AICTPL),26/7/2020 11:21,RAIL
+APSEZ,Western,EXPORT,MEDU1544336,20,,,23/7/2020 16:01,,34544136,Adani International Container Terminal (AICTPL),26/7/2020 09:38,RAIL
+APSEZ,Western,EXPORT,TEMU2261544,20,,,20/7/2020 06:41,,34549992,Adani International Container Terminal (AICTPL),26/7/2020 09:55,RAIL
+APSEZ,Western,EXPORT,MEDU3087373,20,,,22/7/2020 11:54,,34575008,Adani International Container Terminal (AICTPL),26/7/2020 07:41,RAIL
+APSEZ,Western,EXPORT,SEGU2309019,20,,,24/7/2020 16:17,,34603602,Adani International Container Terminal (AICTPL),26/7/2020 09:03,RAIL
+APSEZ,Western,EXPORT,MSCU6883212,20,,,23/7/2020 19:29,,34613300,Adani International Container Terminal (AICTPL),26/7/2020 05:49,RAIL
+APSEZ,Western,EXPORT,TEMU2870073,20,,,23/7/2020 11:27,,34618477,Adani International Container Terminal (AICTPL),26/7/2020 06:29,RAIL
+APSEZ,Western,EXPORT,ARDU2111781,20,,,24/7/2020 02:19,,34627842,Adani International Container Terminal (AICTPL),26/7/2020 10:50,RAIL
+APSEZ,Western,EXPORT,NYKU3115553,20,,,24/7/2020 10:03,,34688353,Adani International Container Terminal (AICTPL),26/7/2020 07:31,RAIL
+Chennai Port,Southern,EXPORT,SAXU2021974,20,,N,21/7/2020 00:00,,31835333,Chennai Container Terminal Pvt. Ltd. (CCTL),27/7/2020 16:54,TRUCK
+Chennai Port,Southern,EXPORT,SAXU2025373,20,,N,2/8/2020 09:57,,31847479,Chennai Container Terminal Pvt. Ltd. (CCTL),4/8/2020 05:08,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2501309,20,,N,26/7/2020 09:34,,32535386,Chennai Container Terminal Pvt. Ltd. (CCTL),28/7/2020 18:12,TRUCK
+Chennai Port,Southern,EXPORT,RFCU2260701,20,,N,25/7/2020 00:16,,32624600,Chennai Container Terminal Pvt. Ltd. (CCTL),29/7/2020 23:00,TRUCK
+Chennai Port,Southern,EXPORT,RFCU2263017,20,,N,11/8/2020 18:10,,33291437,Chennai Container Terminal Pvt. Ltd. (CCTL),16/8/2020 19:34,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2523798,20,,N,20/7/2020 20:19,,34026365,Chennai Container Terminal Pvt. Ltd. (CCTL),27/7/2020 14:07,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1106681,20,,N,14/8/2020 10:00,,34196280,Chennai Container Terminal Pvt. Ltd. (CCTL),19/8/2020 14:49,TRUCK
+Chennai Port,Southern,EXPORT,SCZU7931497,20,,N,4/8/2020 17:56,,34474447,Chennai Container Terminal Pvt. Ltd. (CCTL),8/8/2020 09:04,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1092443,20,,N,20/7/2020 20:50,Y,34565994,Chennai Container Terminal Pvt. Ltd. (CCTL),9/8/2020 23:04,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1230291,20,,N,22/7/2020 19:27,N,34637309,Chennai Container Terminal Pvt. Ltd. (CCTL),29/7/2020 22:21,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1157328,20,,N,22/7/2020 23:24,Y,34641817,Chennai Container Terminal Pvt. Ltd. (CCTL),9/8/2020 22:13,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1234548,20,,N,23/7/2020 01:44,Y,34644762,Chennai Container Terminal Pvt. Ltd. (CCTL),26/7/2020 07:22,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2501042,20,,N,23/7/2020 18:50,N,34668388,Chennai Container Terminal Pvt. Ltd. (CCTL),28/7/2020 16:55,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2500690,20,,N,23/7/2020 18:36,N,34668390,Chennai Container Terminal Pvt. Ltd. (CCTL),28/7/2020 09:10,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1236725,20,,N,23/7/2020 22:58,Y,34674281,Chennai Container Terminal Pvt. Ltd. (CCTL),26/7/2020 07:41,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2523545,20,,N,24/7/2020 10:38,Y,34688457,Chennai Container Terminal Pvt. Ltd. (CCTL),26/7/2020 05:30,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2501660,20,,N,24/7/2020 23:44,N,34708948,Chennai Container Terminal Pvt. Ltd. (CCTL),28/7/2020 15:08,TRUCK
+Chennai Port,Southern,EXPORT,RFCU2257816,20,,N,25/7/2020 01:03,N,34711748,Chennai Container Terminal Pvt. Ltd. (CCTL),29/7/2020 02:57,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1153235,20,,N,25/7/2020 07:36,,34715653,Chennai Container Terminal Pvt. Ltd. (CCTL),26/7/2020 07:17,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1130559,20,,N,25/7/2020 16:44,N,34730854,Chennai Container Terminal Pvt. Ltd. (CCTL),29/7/2020 13:29,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1049895,20,,N,25/7/2020 16:10,Y,34730867,Chennai Container Terminal Pvt. Ltd. (CCTL),27/7/2020 20:24,TRUCK
+Chennai Port,Southern,EXPORT,RFCU4049914,40,,N,25/7/2020 22:34,N,34738627,Chennai Container Terminal Pvt. Ltd. (CCTL),29/7/2020 13:12,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1086420,20,,N,25/7/2020 23:13,Y,34739786,Chennai Container Terminal Pvt. Ltd. (CCTL),9/8/2020 21:45,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1150339,20,,N,26/7/2020 03:18,Y,34745288,Chennai Container Terminal Pvt. Ltd. (CCTL),9/8/2020 22:37,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1086013,20,,N,26/7/2020 17:12,Y,34760330,Chennai Container Terminal Pvt. Ltd. (CCTL),9/8/2020 22:09,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2500093,20,,N,27/7/2020 07:46,,34773539,Chennai Container Terminal Pvt. Ltd. (CCTL),28/7/2020 03:45,TRUCK
+Chennai Port,Southern,EXPORT,SDCU8220370,20,,N,21/7/2020 23:38,N,34786092,Chennai Container Terminal Pvt. Ltd. (CCTL),27/7/2020 16:53,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2501124,20,,N,28/7/2020 01:48,,34794584,Chennai Container Terminal Pvt. Ltd. (CCTL),30/7/2020 01:44,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2500961,20,,N,28/7/2020 07:37,,34798116,Chennai Container Terminal Pvt. Ltd. (CCTL),30/7/2020 02:22,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2500792,20,,N,28/7/2020 02:12,N,34799343,Chennai Container Terminal Pvt. Ltd. (CCTL),30/7/2020 03:18,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2408916,20,,N,28/7/2020 12:26,N,34812398,Chennai Container Terminal Pvt. Ltd. (CCTL),29/7/2020 15:39,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2523606,20,,N,28/7/2020 16:25,,34815096,Chennai Container Terminal Pvt. Ltd. (CCTL),29/7/2020 15:02,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2523632,20,,N,28/7/2020 16:37,Y,34817178,Chennai Container Terminal Pvt. Ltd. (CCTL),3/8/2020 21:04,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2501340,20,,N,29/7/2020 10:25,,34835401,Chennai Container Terminal Pvt. Ltd. (CCTL),29/7/2020 15:08,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2408808,20,,N,29/7/2020 15:26,,34844910,Chennai Container Terminal Pvt. Ltd. (CCTL),29/7/2020 15:57,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2501736,20,,N,29/7/2020 22:57,,34852174,Chennai Container Terminal Pvt. Ltd. (CCTL),30/7/2020 05:10,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2502178,20,,N,30/7/2020 01:26,Y,34861112,Chennai Container Terminal Pvt. Ltd. (CCTL),3/8/2020 19:27,TRUCK
+Chennai Port,Southern,EXPORT,SAJU2030495,20,,N,30/7/2020 07:39,,34864867,Chennai Container Terminal Pvt. Ltd. (CCTL),4/8/2020 00:49,TRUCK
+Chennai Port,Southern,EXPORT,RFCU2338271,20,,N,31/7/2020 13:52,,34877992,Chennai Container Terminal Pvt. Ltd. (CCTL),3/8/2020 20:18,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1100467,20,,N,31/7/2020 08:55,Y,34898470,Chennai Container Terminal Pvt. Ltd. (CCTL),3/8/2020 17:21,TRUCK
+Chennai Port,Southern,EXPORT,RFSU2003156,20,,N,31/7/2020 10:51,N,34901223,Chennai Container Terminal Pvt. Ltd. (CCTL),3/8/2020 12:34,TRUCK
+Chennai Port,Southern,EXPORT,RFSU2002000,20,,N,31/7/2020 13:26,N,34904742,Chennai Container Terminal Pvt. Ltd. (CCTL),3/8/2020 20:18,TRUCK
+Chennai Port,Southern,EXPORT,RFSU2001003,20,,N,31/7/2020 13:24,N,34904743,Chennai Container Terminal Pvt. Ltd. (CCTL),3/8/2020 20:04,TRUCK
+Chennai Port,Southern,EXPORT,RFCU2360824,20,,N,31/7/2020 14:11,N,34905798,Chennai Container Terminal Pvt. Ltd. (CCTL),3/8/2020 20:02,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2501084,20,,N,31/7/2020 14:43,N,34905814,Chennai Container Terminal Pvt. Ltd. (CCTL),31/7/2020 21:50,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2500920,20,,N,31/7/2020 14:14,N,34905815,Chennai Container Terminal Pvt. Ltd. (CCTL),31/7/2020 15:29,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1235014,20,,N,31/7/2020 19:39,Y,34911934,Chennai Container Terminal Pvt. Ltd. (CCTL),3/8/2020 08:33,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1049637,20,,N,1/8/2020 00:17,N,34918521,Chennai Container Terminal Pvt. Ltd. (CCTL),5/8/2020 00:35,TRUCK
+Chennai Port,Southern,EXPORT,SAJU2031932,20,,N,1/8/2020 07:51,N,34926923,Chennai Container Terminal Pvt. Ltd. (CCTL),4/8/2020 00:21,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1056071,20,,N,1/8/2020 09:14,,34927210,Chennai Container Terminal Pvt. Ltd. (CCTL),3/8/2020 07:51,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1114178,20,,N,2/8/2020 10:44,N,34956872,Chennai Container Terminal Pvt. Ltd. (CCTL),4/8/2020 19:56,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1054000,20,,N,2/8/2020 13:06,Y,34960069,Chennai Container Terminal Pvt. Ltd. (CCTL),3/8/2020 12:24,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1099957,20,,N,4/8/2020 18:07,,34978176,Chennai Container Terminal Pvt. Ltd. (CCTL),13/8/2020 21:35,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1051887,20,,N,3/8/2020 17:02,Y,34984958,Chennai Container Terminal Pvt. Ltd. (CCTL),14/8/2020 07:08,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1056019,20,,N,3/8/2020 21:49,Y,34990259,Chennai Container Terminal Pvt. Ltd. (CCTL),13/8/2020 19:19,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2522343,20,,N,4/8/2020 13:06,Y,35005951,Chennai Container Terminal Pvt. Ltd. (CCTL),14/8/2020 01:42,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1090939,20,,N,4/8/2020 17:57,Y,35011037,Chennai Container Terminal Pvt. Ltd. (CCTL),13/8/2020 21:39,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2520720,20,,N,4/8/2020 19:51,Y,35014144,Chennai Container Terminal Pvt. Ltd. (CCTL),13/8/2020 21:31,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2501382,20,,N,4/8/2020 20:35,N,35015455,Chennai Container Terminal Pvt. Ltd. (CCTL),12/8/2020 07:21,TRUCK
+Chennai Port,Southern,EXPORT,RFCU2363530,20,,N,4/8/2020 21:45,N,35016573,Chennai Container Terminal Pvt. Ltd. (CCTL),20/8/2020 16:29,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1044677,20,,N,24/7/2020 14:44,N,35020723,Chennai Container Terminal Pvt. Ltd. (CCTL),5/8/2020 01:56,TRUCK
+Chennai Port,Southern,EXPORT,RFCU4021310,40,,N,2/8/2020 11:55,N,35024687,Chennai Container Terminal Pvt. Ltd. (CCTL),5/8/2020 05:01,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1237629,20,,N,5/8/2020 17:17,Y,35039269,Chennai Container Terminal Pvt. Ltd. (CCTL),14/8/2020 04:28,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1052055,20,,N,5/8/2020 17:15,Y,35039270,Chennai Container Terminal Pvt. Ltd. (CCTL),14/8/2020 01:48,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1099448,20,,N,6/8/2020 01:02,Y,35046915,Chennai Container Terminal Pvt. Ltd. (CCTL),14/8/2020 06:39,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1236746,20,,N,6/8/2020 10:25,Y,35054552,Chennai Container Terminal Pvt. Ltd. (CCTL),14/8/2020 02:24,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2521769,20,,N,6/8/2020 14:13,Y,35058011,Chennai Container Terminal Pvt. Ltd. (CCTL),14/8/2020 04:11,TRUCK
+Chennai Port,Southern,EXPORT,SCZU7831203,20,,N,6/8/2020 18:46,N,35062029,Chennai Container Terminal Pvt. Ltd. (CCTL),13/8/2020 05:31,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1044091,20,,N,6/8/2020 22:27,Y,35066401,Chennai Container Terminal Pvt. Ltd. (CCTL),14/8/2020 02:40,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2403581,20,,N,7/8/2020 22:58,,35092647,Chennai Container Terminal Pvt. Ltd. (CCTL),12/8/2020 12:07,TRUCK
+Chennai Port,Southern,EXPORT,SCLU1009870,20,,N,9/8/2020 07:54,,35102570,Chennai Container Terminal Pvt. Ltd. (CCTL),13/8/2020 22:39,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1096705,20,,N,8/8/2020 20:01,N,35120583,Chennai Container Terminal Pvt. Ltd. (CCTL),16/8/2020 20:05,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2503385,20,,N,9/8/2020 15:53,N,35140772,Chennai Container Terminal Pvt. Ltd. (CCTL),25/8/2020 05:56,TRUCK
+Chennai Port,Southern,EXPORT,SAXU2029527,20,,N,11/8/2020 21:01,,35202239,Chennai Container Terminal Pvt. Ltd. (CCTL),16/8/2020 21:27,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2400643,20,,N,11/8/2020 22:51,N,35207379,Chennai Container Terminal Pvt. Ltd. (CCTL),20/8/2020 16:53,TRUCK
+Chennai Port,Southern,EXPORT,RFCU5052471,40,,N,12/8/2020 04:46,N,35215302,Chennai Container Terminal Pvt. Ltd. (CCTL),17/8/2020 19:08,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1054700,20,,N,12/8/2020 12:26,Y,35225667,Chennai Container Terminal Pvt. Ltd. (CCTL),13/8/2020 20:10,TRUCK
+Chennai Port,Southern,EXPORT,RFTU7414731,20,,N,12/8/2020 17:32,N,35232289,Chennai Container Terminal Pvt. Ltd. (CCTL),12/8/2020 18:21,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2402836,20,,N,13/8/2020 00:51,N,35241599,Chennai Container Terminal Pvt. Ltd. (CCTL),21/8/2020 09:05,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1235098,20,,N,13/8/2020 18:19,Y,35264140,Chennai Container Terminal Pvt. Ltd. (CCTL),21/8/2020 05:09,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1056744,20,,N,13/8/2020 21:02,,35264517,Chennai Container Terminal Pvt. Ltd. (CCTL),21/8/2020 09:50,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2520232,20,,N,5/8/2020 16:39,Y,35277297,Chennai Container Terminal Pvt. Ltd. (CCTL),14/8/2020 04:34,TRUCK
+Chennai Port,Southern,EXPORT,RFCU4082569,40,,N,14/8/2020 18:13,N,35295612,Chennai Container Terminal Pvt. Ltd. (CCTL),21/8/2020 06:05,TRUCK
+Chennai Port,Southern,EXPORT,RFCU4021178,40,,N,15/8/2020 09:54,N,35315220,Chennai Container Terminal Pvt. Ltd. (CCTL),19/8/2020 20:38,TRUCK
+Chennai Port,Southern,EXPORT,RFCU2276950,20,,N,15/8/2020 22:40,Y,35335255,Chennai Container Terminal Pvt. Ltd. (CCTL),21/8/2020 14:50,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1046258,20,,N,16/8/2020 10:32,Y,35346857,Chennai Container Terminal Pvt. Ltd. (CCTL),21/8/2020 10:31,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1056560,20,,N,16/8/2020 14:41,Y,35351179,Chennai Container Terminal Pvt. Ltd. (CCTL),21/8/2020 10:25,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2501000,20,,N,18/8/2020 19:17,N,35411188,Chennai Container Terminal Pvt. Ltd. (CCTL),19/8/2020 17:05,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1234677,20,,N,19/8/2020 15:33,,35434683,Chennai Container Terminal Pvt. Ltd. (CCTL),21/8/2020 19:00,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1234928,20,,N,19/8/2020 15:17,Y,35437290,Chennai Container Terminal Pvt. Ltd. (CCTL),21/8/2020 19:18,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2403180,20,,N,19/8/2020 21:35,,35439017,Chennai Container Terminal Pvt. Ltd. (CCTL),21/8/2020 20:28,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2522528,20,,N,20/8/2020 11:20,Y,35467370,Chennai Container Terminal Pvt. Ltd. (CCTL),21/8/2020 19:20,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1235781,20,,N,21/8/2020 04:01,Y,35489238,Chennai Container Terminal Pvt. Ltd. (CCTL),21/8/2020 21:32,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1235729,20,,N,14/8/2020 00:53,Y,35490455,Chennai Container Terminal Pvt. Ltd. (CCTL),21/8/2020 05:17,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2501309,20,,N,21/8/2020 11:45,N,35497319,Chennai Container Terminal Pvt. Ltd. (CCTL),25/8/2020 00:56,TRUCK
+Chennai Port,Southern,EXPORT,SEGU1234569,20,,N,16/8/2020 06:59,Y,35501404,Chennai Container Terminal Pvt. Ltd. (CCTL),21/8/2020 14:35,TRUCK
+Chennai Port,Southern,EXPORT,RFCU2273057,20,,N,21/8/2020 18:08,N,35508196,Chennai Container Terminal Pvt. Ltd. (CCTL),24/8/2020 08:08,TRUCK
+Chennai Port,Southern,EXPORT,RWAU2523479,20,,N,19/8/2020 10:49,Y,35510687,Chennai Container Terminal Pvt. Ltd. (CCTL),21/8/2020 20:57,TRUCK
+Chennai Port,Southern,EXPORT,RFCU2274557,20,,N,21/8/2020 19:51,N,35583422,Chennai Container Terminal Pvt. Ltd. (CCTL),24/8/2020 09:14,TRUCK
+Chennai Port,Southern,EXPORT,RFCU4049494,40,,N,19/8/2020 10:11,N,35585515,Chennai Container Terminal Pvt. Ltd. (CCTL),24/8/2020 11:06,TRUCK
+"VCT, Visakhapatnam",Eastern,IMPORT,EISU2149610,20,,N,10/8/2020 16:51,,21895759,Visakha Container Terminal,16/8/2020 11:56,RAIL
+"VCT, Visakhapatnam",Eastern,IMPORT,TEMU4142755,20,,N,8/8/2020 06:01,,22082179,Visakha Container Terminal,10/8/2020 22:02,TRUCK
+"VCT, Visakhapatnam",Eastern,IMPORT,PAAU2000948,20,,Y,26/7/2020 19:05,Y,22335187,Visakha Container Terminal,3/8/2020 02:11,TRUCK
+Kattupalli Port,Southern,IMPORT,DFSU2763345,20,,Y,13/8/2020 15:54,,22701015,Kattupalli International Container Terminal (KICT),15/8/2020 01:45,TRUCK
+Chennai Port,Southern,IMPORT,WSCU3952623,20,,Y,5/8/2020 06:39,Y,22811034,Chennai International Terminals Pvt Ltd (CITPL),7/8/2020 02:04,TRUCK
+Kattupalli Port,Southern,IMPORT,BSIU2373187,20,,Y,30/7/2020 21:22,Y,23027501,Kattupalli International Container Terminal (KICT),2/8/2020 02:41,TRUCK
+"VCT, Visakhapatnam",Eastern,IMPORT,BLZU2119230,20,,N,17/8/2020 17:50,N,23180044,Visakha Container Terminal,18/8/2020 19:59,TRUCK
+"VCT, Visakhapatnam",Eastern,IMPORT,MRKU7347633,,,N,11/8/2020 21:23,,23284396,Visakha Container Terminal,14/8/2020 03:38,TRUCK
+"VCT, Visakhapatnam",Eastern,IMPORT,CAIU3308160,20,,N,8/8/2020 06:08,N,23295453,Visakha Container Terminal,12/8/2020 10:06,TRUCK
+Kattupalli Port,Southern,IMPORT,MRKU3479349,40,,Y,11/8/2020 10:24,,23839354,Kattupalli International Container Terminal (KICT),11/8/2020 11:25,TRUCK
+"KDS, Kolkata",Eastern,EXPORT,GLDU5221068,20,,,21/7/2020 19:40,,24051871,"Kolkata Dock System (KDS) , Kolkata Port",31/7/2020 10:21,
+"VCT, Visakhapatnam",Eastern,IMPORT,BEAU2948722,20,,N,8/8/2020 14:02,,24081454,Visakha Container Terminal,11/8/2020 12:43,TRUCK
+Kattupalli Port,Southern,IMPORT,HMMU6137080,40,,Y,8/8/2020 02:29,Y,24138947,Kattupalli International Container Terminal (KICT),8/8/2020 15:11,TRUCK
+Kattupalli Port,Southern,IMPORT,SAXU2021866,20,,Y,10/8/2020 12:50,Y,24172022,Kattupalli International Container Terminal (KICT),15/8/2020 04:08,TRUCK
+"VCT, Visakhapatnam",Eastern,IMPORT,TRIU8661740,40,,N,28/7/2020 10:24,,24339355,Visakha Container Terminal,31/7/2020 09:20,TRUCK
+"VCT, Visakhapatnam",Eastern,IMPORT,SZLU9904676,40,,N,23/8/2020 13:17,,24420929,Visakha Container Terminal,23/8/2020 19:27,TRUCK
+"VCT, Visakhapatnam",Eastern,IMPORT,TGBU2262495,20,,N,2/8/2020 03:18,,24543393,Visakha Container Terminal,5/8/2020 17:52,TRUCK
+Kattupalli Port,Southern,IMPORT,GAOU2087628,20,,Y,7/8/2020 15:23,Y,24596935,Kattupalli International Container Terminal (KICT),8/8/2020 21:18,TRUCK
+"VCT, Visakhapatnam",Eastern,IMPORT,OTPU6031904,40,,N,4/8/2020 12:45,N,24729345,Visakha Container Terminal,6/8/2020 11:57,TRUCK
+APSEZ,Western,EXPORT,CAXU9061736,40,,,27/7/2020 03:08,,24812122,Adani International Container Terminal (AICTPL),31/7/2020 14:23,RAIL
+"VCT, Visakhapatnam",Eastern,IMPORT,MRKU4826695,40,,N,12/8/2020 23:24,Y,24965096,Visakha Container Terminal,13/8/2020 21:24,TRUCK
+"VCT, Visakhapatnam",Eastern,IMPORT,MSKU3809632,20,,N,23/7/2020 06:57,,25077820,Visakha Container Terminal,26/7/2020 08:04,TRUCK
+JNPT,Western,EXPORT,RIGU4000025,40,,N,30/7/2020 20:56,,25090943,Nhava Sheva India Gateway Terminal (NSIGT),1/8/2020 16:56,TRUCK
+JNPT,Western,EXPORT,FCIU3476264,20,,Y,31/7/2020 02:49,,25434190,Nhava Sheva India Gateway Terminal (NSIGT),2/8/2020 16:00,TRUCK
+APSEZ,Western,EXPORT,MSKU0373885,40,,,2/8/2020 19:41,,25447680,Mundra International Container Terminal (MICT),11/8/2020 14:50,RAIL
+"VCT, Visakhapatnam",Eastern,IMPORT,MRKU9217496,20,,N,11/8/2020 08:52,Y,25453142,Visakha Container Terminal,12/8/2020 21:25,TRUCK
+"VCT, Visakhapatnam",Eastern,IMPORT,HASU4849414,40,,N,13/8/2020 10:14,,25479453,Visakha Container Terminal,16/8/2020 13:50,TRUCK
+APSEZ,Western,EXPORT,APZU3512653,20,,,8/8/2020 10:50,,25519195,Adani CMA Mundra Terminal (ACMTPL),10/8/2020 11:31,RAIL
+APSEZ,Western,EXPORT,APZU3512653,20,,,8/8/2020 10:16,,25519195,Mundra International Container Terminal (MICT),8/8/2020 10:35,RAIL
+APSEZ,Western,EXPORT,MSKU8679911,40,,,27/7/2020 04:08,,25542320,Mundra International Container Terminal (MICT),2/8/2020 21:36,RAIL
+JNPT,Western,EXPORT,TCNU8946366,40,,Y,4/8/2020 12:28,,25581829,Nhava Sheva India Gateway Terminal (NSIGT),8/8/2020 21:09,TRUCK
+JNPT,Western,EXPORT,CRSU9365937,40,,N,31/7/2020 21:02,,25597658,Nhava Sheva International Container Terminal (NSICT),5/8/2020 13:54,TRUCK
+Chennai Port,Southern,EXPORT,IRNU3679840,20,,N,10/8/2020 16:16,,25625342,Chennai International Terminals Pvt Ltd (CITPL),12/8/2020 05:22,TRUCK
+"VCT, Visakhapatnam",Eastern,IMPORT,MRKU7040776,20,,N,29/7/2020 04:09,N,25632252,Visakha Container Terminal,30/7/2020 04:20,TRUCK
+"KDS, Kolkata",Eastern,EXPORT,TRHU1529765,20,,,12/8/2020 18:25,,25637043,"Kolkata Dock System (KDS) , Kolkata Port",17/8/2020 07:30,TRUCK
+APSEZ,Western,EXPORT,TCNU9331915,40,,,23/7/2020 22:38,,25685339,Mundra International Container Terminal (MICT),30/7/2020 07:17,RAIL
+Haldia,Eastern,IMPORT,CSLU6099737,40,,N,29/7/2020 00:00,Y,25725812,Haldia International Container Terminal (HICT),30/7/2020 00:00,TRUCK
+Kattupalli Port,Southern,EXPORT,GAOU6182351,40,,N,23/9/2019 12:15,,25814716,Kattupalli International Container Terminal (KICT),14/8/2020 14:06,TRUCK
+Chennai Port,Southern,EXPORT,CXDU2477457,20,,N,8/8/2020 06:27,,25818961,Chennai International Terminals Pvt Ltd (CITPL),11/8/2020 21:50,TRUCK
+JNPT,Western,EXPORT,GLDU9826139,20,,N,27/7/2020 23:13,,25821447,Gateway Terminals India (GTI),31/7/2020 12:32,TRUCK
+JNPT,Western,EXPORT,CXDU1145967,20,,,9/8/2020 16:28,,25845232,Jawaharlal Nehru Port Container Terminal (JNPCT),10/8/2020 15:49,TRUCK
+JNPT,Western,EXPORT,CXDU1054131,20,,,25/7/2020 04:44,,25848233,Jawaharlal Nehru Port Container Terminal (JNPCT),28/7/2020 09:10,TRUCK
+"VCT, Visakhapatnam",Eastern,IMPORT,WHLU0508820,20,,N,27/7/2020 10:48,Y,25929923,Visakha Container Terminal,28/7/2020 12:26,TRUCK
+APSEZ,Western,EXPORT,BMOU4158948,40,,,19/8/2020 02:04,,25936114,Mundra International Container Terminal (MICT),23/8/2020 16:48,RAIL
+JNPT,Western,EXPORT,SGCU4543426,40,,N,4/8/2020 16:30,,25969288,Gateway Terminals India (GTI),10/8/2020 05:01,TRUCK
+APSEZ,Western,EXPORT,SUDU5629438,40,,,18/8/2020 22:40,,25973644,Adani Hazira Port Private Limited (AHPPL),25/8/2020 19:38,TRUCK
+"KDS, Kolkata",Eastern,EXPORT,TCKU1446739,20,,,25/7/2020 05:29,,25974175,"Kolkata Dock System (KDS) , Kolkata Port",1/8/2020 01:57,TRUCK
+JNPT,Western,EXPORT,TCNU9776074,40,,N,7/8/2020 01:05,,26054135,Bharat Mumbai Container Terminals(PSA),12/8/2020 16:08,RAIL
+APSEZ,Western,EXPORT,UACU5060437,40,,,5/8/2020 18:50,,26066029,Adani International Container Terminal (AICTPL),17/8/2020 09:14,RAIL
+APSEZ,Western,EXPORT,MSKU8638213,40,,,21/7/2020 09:09,,26123871,Adani Mundra Container Terminal (AMCT),28/7/2020 01:36,TRUCK
+Chennai Port,Southern,EXPORT,MEDU7926721,40,,N,30/7/2020 14:00,,26124835,Chennai Container Terminal Pvt. Ltd. (CCTL),8/8/2020 00:15,TRUCK
+"VCT, Visakhapatnam",Eastern,IMPORT,WHLU0363100,20,,N,17/8/2020 17:43,Y,26136829,Visakha Container Terminal,18/8/2020 07:43,TRUCK
+APSEZ,Western,EXPORT,TCKU3227529,20,,,3/8/2020 16:27,,26186534,Adani CMA Mundra Terminal (ACMTPL),8/8/2020 12:13,RAIL
+APSEZ,Western,EXPORT,PONU0054002,20,,,29/7/2020 17:36,,26193645,Mundra International Container Terminal (MICT),10/8/2020 12:53,RAIL
+"KDS, Kolkata",Eastern,EXPORT,TGHU3542743,20,,,12/8/2020 01:03,,26204043,"Kolkata Dock System (KDS) , Kolkata Port",21/8/2020 21:09,TRUCK
+JNPT,Western,EXPORT,FSCU7839583,20,,Y,31/7/2020 01:01,,26230043,Nhava Sheva India Gateway Terminal (NSIGT),2/8/2020 16:59,TRUCK
+JNPT,Western,EXPORT,HJCU8261533,20,,Y,31/7/2020 01:34,,26232197,Nhava Sheva India Gateway Terminal (NSIGT),2/8/2020 15:40,TRUCK
+"VCT, Visakhapatnam",Eastern,IMPORT,TCKU3428333,20,,N,26/7/2020 20:24,N,26232548,Visakha Container Terminal,30/7/2020 06:28,TRUCK
+APSEZ,Western,EXPORT,TCLU5653412,40,,,4/8/2020 00:04,,26273402,Mundra International Container Terminal (MICT),10/8/2020 16:01,RAIL
+JNPT,Western,EXPORT,TGHU9092520,40,,N,23/7/2020 22:17,,26333175,Gateway Terminals India (GTI),28/7/2020 15:25,TRUCK
+APSEZ,Western,EXPORT,SUDU8995235,40,,,27/7/2020 10:13,,26370616,Mundra International Container Terminal (MICT),9/8/2020 21:52,TRUCK
+Kattupalli Port,Southern,EXPORT,TLLU5825649,40,,N,20/8/2020 18:16,,26376758,Kattupalli International Container Terminal (KICT),25/8/2020 08:55,TRUCK
+Haldia,Eastern,EXPORT,MRSU0122601,20,,N,13/7/2020 19:15,,26376955,Haldia International Container Terminal (HICT),27/7/2020 00:00,RAIL
+JNPT,Western,IMPORT,IAAU2686580,20,,N,14/8/2020 21:47,,26408778,Gateway Terminals India (GTI),16/8/2020 14:01,TRUCK
+"KDS, Kolkata",Eastern,EXPORT,XINU1353955,20,,,12/8/2020 13:57,,26427480,"Kolkata Dock System (KDS) , Kolkata Port",22/8/2020 01:55,TRUCK
+APSEZ,Western,EXPORT,TCKU3672329,20,,,13/8/2020 22:32,,26437310,Adani CMA Mundra Terminal (ACMTPL),19/8/2020 00:20,RAIL
+JNPT,Western,EXPORT,KKFU7436015,40,,N,29/7/2020 15:26,,26473361,Bharat Mumbai Container Terminals(PSA),31/7/2020 15:45,TRUCK
+APSEZ,Western,EXPORT,CRSU1257113,20,,,27/7/2020 22:57,,26478201,Mundra International Container Terminal (MICT),31/7/2020 12:07,TRUCK
+APSEZ,Western,EXPORT,CRSU1376391,20,,,11/8/2020 05:43,,26483755,Mundra International Container Terminal (MICT),13/8/2020 00:17,TRUCK
+JNPT,Western,EXPORT,BATU3965974,20,,,2/8/2020 09:33,,26511949,Jawaharlal Nehru Port Container Terminal (JNPCT),5/8/2020 01:18,RAIL
+Kattupalli Port,Southern,EXPORT,XINU8205230,40,,N,15/10/2019 16:10,,26517286,Kattupalli International Container Terminal (KICT),18/8/2020 07:02,TRUCK
+Haldia,Eastern,EXPORT,MVIU2005136,20,,N,13/7/2020 19:14,,26518093,Haldia International Container Terminal (HICT),27/7/2020 00:00,RAIL
+JNPT,Western,EXPORT,BMOU2851763,20,,Y,11/8/2020 19:35,,26519436,Nhava Sheva India Gateway Terminal (NSIGT),15/8/2020 05:14,TRUCK
+APSEZ,Western,EXPORT,ECMU9437787,40,,,11/8/2020 22:20,,26521365,Mundra International Container Terminal (MICT),12/8/2020 09:47,RAIL
+JNPT,Western,EXPORT,HDMU6540440,40,,N,4/8/2020 09:31,,26548754,Nhava Sheva India Gateway Terminal (NSIGT),7/8/2020 23:07,TRUCK
+JNPT,Western,EXPORT,TCNU5135690,40,,N,3/8/2020 23:02,,26573942,Gateway Terminals India (GTI),8/8/2020 08:49,TRUCK
+"KDS, Kolkata",Eastern,EXPORT,OOLU3696857,20,,,14/8/2020 00:29,,26588043,"Kolkata Dock System (KDS) , Kolkata Port",19/8/2020 14:52,TRUCK
+APSEZ,Western,EXPORT,TLLU2459799,20,,Y,20/8/2020 07:18,N,26588677,Mundra International Container Terminal (MICT),20/8/2020 07:31,RAIL
+"NMPT, New Mangalore",Southern,EXPORT,YMLU3067547,20,,,17/10/2019 19:32,,26589884,New Manglore Port Trust,10/8/2020 11:51,TRUCK
+APSEZ,Western,EXPORT,MRKU6462360,40,,,21/8/2020 22:00,,26601125,Mundra International Container Terminal (MICT),23/8/2020 14:42,RAIL
+"KDS, Kolkata",Eastern,EXPORT,TGHU7865148,,,,15/8/2020 15:25,,26609648,"Kolkata Dock System (KDS) , Kolkata Port",25/8/2020 08:42,TRUCK
+"KDS, Kolkata",Eastern,EXPORT,TRHU3996476,20,,,27/7/2020 15:33,,26700500,"Kolkata Dock System (KDS) , Kolkata Port",4/8/2020 20:15,TRUCK
+"NMPT, New Mangalore",Southern,EXPORT,TEMU5435017,,,,7/8/2020 12:54,,26709742,New Manglore Port Trust,10/8/2020 13:09,TRUCK
+"KDS, Kolkata",Eastern,EXPORT,MRKU8748604,20,,,12/8/2020 18:20,,26712331,"Kolkata Dock System (KDS) , Kolkata Port",17/8/2020 07:44,TRUCK
+"VCT, Visakhapatnam",Eastern,EXPORT,SUDU7668201,20,,N,12/8/2020 13:14,,26733933,Visakha Container Terminal,13/8/2020 02:39,RAIL
+APSEZ,Western,EXPORT,SEGU7301350,40,,,27/7/2020 23:56,,26746938,Adani International Container Terminal (AICTPL),31/7/2020 12:40,TRUCK
+Chennai Port,Southern,EXPORT,CLHU8924189,40,,N,11/8/2020 02:00,,26747944,Chennai Container Terminal Pvt. Ltd. (CCTL),14/8/2020 10:37,TRUCK
+JNPT,Western,EXPORT,ACNU1990157,20,,N,26/7/2020 09:48,,26749228,Nhava Sheva International Container Terminal (NSICT),27/7/2020 11:08,TRUCK
+JNPT,Western,EXPORT,BSIU2395519,20,,Y,26/7/2020 13:38,,26751054,Jawaharlal Nehru Port Container Terminal (JNPCT),28/7/2020 20:19,TRUCK
+APSEZ,Western,EXPORT,IALU2250783,20,,,15/8/2020 15:11,,26751061,Mundra International Container Terminal (MICT),18/8/2020 07:45,RAIL
+APSEZ,Western,EXPORT,TEMU5261764,20,,,23/7/2020 03:39,,26752026,Adani International Container Terminal (AICTPL),31/7/2020 03:44,RAIL
+Chennai Port,Southern,EXPORT,UESU2460019,20,,N,19/8/2020 05:17,,26758436,Chennai International Terminals Pvt Ltd (CITPL),20/8/2020 23:00,TRUCK
+APSEZ,Western,EXPORT,CNCU1604110,20,,,2/8/2020 16:41,,26759029,Adani CMA Mundra Terminal (ACMTPL),8/8/2020 16:07,TRUCK
+JNPT,Western,EXPORT,GESU5311951,40,,N,1/8/2020 11:24,,26759209,Bharat Mumbai Container Terminals(PSA),4/8/2020 23:46,TRUCK
+JNPT,Western,EXPORT,CRXU1670983,20,,N,22/8/2020 15:02,,26760118,Nhava Sheva India Gateway Terminal (NSIGT),25/8/2020 08:08,TRUCK
+APSEZ,Western,EXPORT,SUDU6744122,40,,,3/8/2020 23:55,,26760379,Mundra International Container Terminal (MICT),10/8/2020 22:09,RAIL
+JNPT,Western,EXPORT,FSCU3774205,20,,Y,31/7/2020 00:29,,26760798,Nhava Sheva India Gateway Terminal (NSIGT),2/8/2020 17:08,TRUCK
+Chennai Port,Southern,EXPORT,CRXU1576977,20,,N,19/8/2020 05:16,,26761831,Chennai International Terminals Pvt Ltd (CITPL),20/8/2020 23:03,TRUCK
+JNPT,Western,EXPORT,WSCU9554231,40,,N,20/8/2020 07:58,,26762195,Bharat Mumbai Container Terminals(PSA),22/8/2020 14:16,TRUCK
+"NMPT, New Mangalore",Southern,EXPORT,TEMU3600771,20,,,8/8/2020 13:35,,26784077,New Manglore Port Trust,10/8/2020 12:00,TRUCK
+APSEZ,Western,EXPORT,BAXU5037514,40,,,24/7/2020 17:37,,26799291,Mundra International Container Terminal (MICT),31/7/2020 14:47,RAIL
+APSEZ,Western,EXPORT,CRSU9204233,40,,,7/8/2020 11:12,,26811500,Adani CMA Mundra Terminal (ACMTPL),10/8/2020 07:03,TRUCK
+APSEZ,Western,EXPORT,GESU4682984,40,,,26/7/2020 23:31,,26842878,Adani Mundra Container Terminal (AMCT),30/7/2020 13:27,RAIL
+APSEZ,Western,EXPORT,AMFU8848630,40,,,22/8/2020 09:23,,26848430,Mundra International Container Terminal (MICT),26/8/2020 00:03,RAIL
+JNPT,Western,EXPORT,CAXU3336965,20,,N,18/8/2020 00:57,,26848697,Bharat Mumbai Container Terminals(PSA),18/8/2020 09:02,RAIL
+Kattupalli Port,Southern,IMPORT,TCNU8159972,40,,Y,13/7/2020 12:08,,26938079,Kattupalli International Container Terminal (KICT),4/8/2020 21:44,TRUCK
+APSEZ,Western,EXPORT,BSIU2755940,20,,,20/8/2020 11:34,,26949623,Mundra International Container Terminal (MICT),25/8/2020 23:05,RAIL
+APSEZ,Western,EXPORT,HASU4471324,40,,,8/8/2020 16:30,,26994577,Mundra International Container Terminal (MICT),12/8/2020 15:43,TRUCK
+Kattupalli Port,Southern,EXPORT,MXCU0015570,20,,Y,27/7/2020 00:02,,26997659,Kattupalli International Container Terminal (KICT),29/7/2020 22:53,VESSEL
+APSEZ,Western,EXPORT,SUDU7638444,20,,,2/8/2020 15:03,,27001586,Adani CMA Mundra Terminal (ACMTPL),5/8/2020 02:24,TRUCK
+JNPT,Western,EXPORT,PCIU3526508,20,,N,15/8/2020 22:41,,27001821,Nhava Sheva India Gateway Terminal (NSIGT),20/8/2020 13:05,RAIL
+APSEZ,Western,EXPORT,TCKU2155023,20,,,17/8/2020 16:56,,27073733,Mundra International Container Terminal (MICT),20/8/2020 12:08,RAIL
+APSEZ,Western,EXPORT,INKU6620401,40,,,30/7/2020 04:44,,27139169,Adani International Container Terminal (AICTPL),9/8/2020 19:30,RAIL
+APSEZ,Western,EXPORT,MEDU8243144,40,,,24/7/2020 15:38,,27139173,Adani International Container Terminal (AICTPL),9/8/2020 17:41,RAIL
+APSEZ,Western,EXPORT,MIEU3033228,40,,,9/8/2020 14:30,,27150289,Mundra International Container Terminal (MICT),12/8/2020 14:52,TRUCK
+APSEZ,Western,EXPORT,GESU3004920,20,,,6/8/2020 23:38,,27156727,Adani Mundra Container Terminal (AMCT),13/8/2020 07:07,RAIL
+APSEZ,Western,EXPORT,CMAU5706139,40,,,28/7/2020 13:11,,27161855,Adani CMA Mundra Terminal (ACMTPL),9/8/2020 01:21,TRUCK
+JNPT,Western,EXPORT,FSCU7547431,20,,N,3/8/2020 04:50,,27202392,Bharat Mumbai Container Terminals(PSA),4/8/2020 23:53,RAIL
+JNPT,Western,EXPORT,FSCU7547431,20,,N,3/8/2020 06:26,,27202392,Nhava Sheva International Container Terminal (NSICT),3/8/2020 10:10,RAIL
+"NCT, Krishnapatnam",Southern,EXPORT,GESU3613757,20,,,26/7/2020 16:27,,27207307,Navayuga Container Terminal (NCT),29/7/2020 04:32,TRUCK
+APSEZ,Western,EXPORT,CXDU1145951,20,,,25/7/2020 01:11,,27234871,Adani Mundra Container Terminal (AMCT),14/8/2020 09:01,TRUCK
+JNPT,Western,EXPORT,XINU1074117,20,,Y,26/7/2020 00:30,,27242201,Nhava Sheva International Container Terminal (NSICT),29/7/2020 05:38,TRUCK
+APSEZ,Western,EXPORT,ZMOU8846080,40,,,23/7/2020 03:47,,34646285,Adani International Container Terminal (AICTPL),27/7/2020 01:54,TRUCK
+APSEZ,Western,IMPORT,ZMOU8846156,40,35309531,,15/8/2020 04:43,,,Adani Mundra Container Terminal (AMCT),15/8/2020 07:31,TRUCK
+"ICTT, Kochi",Southern,EXPORT,ZMOU8846520,40,,Y,21/8/2020 14:35,,35500608,"International Container Transhipment Terminal, Kochi",24/8/2020 03:44,TRUCK
+"ICTT, Kochi",Southern,IMPORT,ZMOU8846520,40,,N,10/8/2020 20:56,Y,35174326,"International Container Transhipment Terminal, Kochi",11/8/2020 09:51,TRUCK
+JNPT,Western,EXPORT,ZMOU8846916,40,,N,12/8/2020 20:20,N,35236881,Nhava Sheva International Container Terminal (NSICT),14/8/2020 10:46,TRUCK
+APSEZ,Western,IMPORT,ZMOU8847574,40,35288629,,14/8/2020 14:43,,,Adani Mundra Container Terminal (AMCT),19/8/2020 15:30,TRUCK
+JNPT,Western,IMPORT,ZMOU8847698,40,,N,25/7/2020 23:20,Y,34778815,Gateway Terminals India (GTI),27/7/2020 10:09,TRUCK
+JNPT,Western,EXPORT,ZMOU8847846,40,,N,7/8/2020 00:41,,35047132,Gateway Terminals India (GTI),12/8/2020 15:44,RAIL
+JNPT,Western,IMPORT,ZMOU8848307,40,,,8/8/2020 17:48,Y,35117978,Jawaharlal Nehru Port Container Terminal (JNPCT),11/8/2020 09:35,TRUCK
+APSEZ,Western,IMPORT,ZMOU8848333,40,35313819,,15/8/2020 08:20,,,Adani Mundra Container Terminal (AMCT),19/8/2020 18:36,TRUCK
+JNPT,Western,IMPORT,ZMOU8848499,40,,N,28/7/2020 09:50,N,34809515,Gateway Terminals India (GTI),29/7/2020 12:57,TRUCK
+JNPT,Western,EXPORT,ZMOU8848652,40,,N,22/8/2020 11:00,N,35527276,Gateway Terminals India (GTI),24/8/2020 08:45,RAIL
+JNPT,Western,EXPORT,ZMOU8848652,40,,N,22/8/2020 10:47,N,35527276,Nhava Sheva International Container Terminal (NSICT),22/8/2020 10:48,RAIL
+JNPT,Western,EXPORT,ZMOU8849284,40,,N,24/7/2020 00:53,N,34676778,Gateway Terminals India (GTI),28/7/2020 17:44,RAIL
+APSEZ,Western,IMPORT,ZMOU8849324,40,34959793,,2/8/2020 13:15,,,Adani Mundra Container Terminal (AMCT),2/8/2020 16:59,TRUCK
+JNPT,Western,EXPORT,ZMOU8849659,40,,N,27/7/2020 01:43,,34763430,Gateway Terminals India (GTI),28/7/2020 09:53,RAIL
+"VCT, Visakhapatnam",Eastern,EXPORT,ZMOU8849725,40,,Y,18/8/2020 20:33,,35328050,Visakha Container Terminal,24/8/2020 04:10,TRUCK
+"VCT, Visakhapatnam",Eastern,EXPORT,ZMOU8850578,40,,Y,21/8/2020 20:50,,35404558,Visakha Container Terminal,24/8/2020 00:28,TRUCK
+JNPT,Western,EXPORT,ZMOU8850618,40,,N,31/7/2020 13:36,N,35034968,Gateway Terminals India (GTI),14/8/2020 02:28,RAIL
+JNPT,Western,IMPORT,ZMOU8850731,40,,,7/8/2020 20:42,Y,35090994,Jawaharlal Nehru Port Container Terminal (JNPCT),11/8/2020 06:53,TRUCK
+JNPT,Western,IMPORT,ZMOU8850752,40,,,7/8/2020 20:56,Y,35090995,Jawaharlal Nehru Port Container Terminal (JNPCT),11/8/2020 06:51,TRUCK
+APSEZ,Western,IMPORT,ZMOU8851337,40,35290273,,14/8/2020 15:28,,,Adani Mundra Container Terminal (AMCT),16/8/2020 19:05,TRUCK
+JNPT,Western,EXPORT,ZMOU8851698,40,,Y,3/8/2020 22:19,,34984417,Jawaharlal Nehru Port Container Terminal (JNPCT),8/8/2020 21:00,TRUCK
+APSEZ,Western,EXPORT,ZMOU8851928,40,,,23/7/2020 02:44,,34645137,Adani International Container Terminal (AICTPL),27/7/2020 01:48,TRUCK
+JNPT,Western,IMPORT,ZMOU8851996,40,,,7/8/2020 21:10,Y,35090996,Jawaharlal Nehru Port Container Terminal (JNPCT),11/8/2020 13:52,TRUCK
+"ICTT, Kochi",Southern,IMPORT,ZMOU8852077,40,,N,10/8/2020 15:01,Y,35167070,"International Container Transhipment Terminal, Kochi",11/8/2020 13:21,TRUCK
+JNPT,Western,EXPORT,ZMOU8854790,40,,N,28/7/2020 23:12,N,34826974,Gateway Terminals India (GTI),29/7/2020 19:36,RAIL
+JNPT,Western,EXPORT,ZMOU8854932,40,,N,21/8/2020 13:59,,35489804,Nhava Sheva International Container Terminal (NSICT),21/8/2020 14:01,RAIL
+JNPT,Western,IMPORT,ZMOU8854948,40,,,7/8/2020 20:38,Y,35090997,Jawaharlal Nehru Port Container Terminal (JNPCT),10/8/2020 17:12,TRUCK
+JNPT,Western,EXPORT,ZMOU8860133,40,,N,23/8/2020 02:50,,35247295,Nhava Sheva International Container Terminal (NSICT),23/8/2020 02:52,RAIL
+APSEZ,Western,IMPORT,ZMOU8860154,40,35187134,,11/8/2020 07:18,,,Adani Mundra Container Terminal (AMCT),11/8/2020 11:40,TRUCK
+JNPT,Western,IMPORT,ZMOU8860278,40,,,8/8/2020 17:24,Y,35116382,Jawaharlal Nehru Port Container Terminal (JNPCT),10/8/2020 17:44,TRUCK
+JNPT,Western,IMPORT,ZMOU8861124,40,,,8/8/2020 17:13,Y,35116383,Jawaharlal Nehru Port Container Terminal (JNPCT),11/8/2020 13:51,TRUCK
+JNPT,Western,EXPORT,ZMOU8861187,40,,N,25/7/2020 18:03,,34736348,Gateway Terminals India (GTI),28/7/2020 09:25,RAIL
+APSEZ,Western,IMPORT,ZMOU8861192,40,35313820,,15/8/2020 08:30,,,Adani Mundra Container Terminal (AMCT),19/8/2020 21:38,TRUCK
+Chennai Port,Southern,IMPORT,ZMOU8861314,40,,N,12/8/2020 22:41,Y,35238845,Chennai Container Terminal Pvt. Ltd. (CCTL),15/8/2020 12:12,TRUCK
+"ICTT, Kochi",Southern,IMPORT,ZMOU8861417,40,,N,10/8/2020 14:58,Y,35167071,"International Container Transhipment Terminal, Kochi",11/8/2020 15:38,TRUCK
+JNPT,Western,EXPORT,ZMOU8861546,40,,Y,3/8/2020 22:14,N,34990648,Jawaharlal Nehru Port Container Terminal (JNPCT),8/8/2020 20:52,TRUCK
+JNPT,Western,EXPORT,ZMOU8861700,40,,Y,15/8/2020 02:11,N,35307743,Gateway Terminals India (GTI),19/8/2020 05:09,TRUCK
+JNPT,Western,IMPORT,ZMOU8861700,40,,,7/8/2020 21:27,Y,35090998,Jawaharlal Nehru Port Container Terminal (JNPCT),11/8/2020 17:20,TRUCK
+JNPT,Western,EXPORT,ZMOU8862183,40,,N,23/8/2020 00:50,,35247296,Nhava Sheva International Container Terminal (NSICT),23/8/2020 00:52,RAIL
+"VCT, Visakhapatnam",Eastern,EXPORT,ZMOU8862394,40,,Y,20/8/2020 21:56,,35404938,Visakha Container Terminal,24/8/2020 00:29,TRUCK
+JNPT,Western,IMPORT,ZMOU8862687,40,,N,26/7/2020 04:40,N,34746699,Gateway Terminals India (GTI),26/7/2020 10:08,TRUCK
+APSEZ,Western,IMPORT,ZMOU8863446,40,35288630,,14/8/2020 14:08,,,Adani Mundra Container Terminal (AMCT),19/8/2020 17:18,TRUCK
+"ICTT, Kochi",Southern,IMPORT,ZMOU8863533,40,,N,10/8/2020 16:27,Y,35170718,"International Container Transhipment Terminal, Kochi",11/8/2020 10:32,TRUCK
+"KDS, Kolkata",Eastern,IMPORT,ZMOU8871190,40,,,18/8/2020 16:37,,35408730,"Kolkata Dock System (KDS) , Kolkata Port",22/8/2020 17:58,TRUCK
+JNPT,Western,EXPORT,ZMOU8872659,40,,N,26/7/2020 01:31,,34739805,Gateway Terminals India (GTI),28/7/2020 09:56,RAIL
+Chennai Port,Southern,IMPORT,ZMOU8872936,40,,N,12/8/2020 22:46,Y,35238843,Chennai Container Terminal Pvt. Ltd. (CCTL),15/8/2020 09:19,TRUCK
+JNPT,Western,EXPORT,ZMOU8873341,40,,N,21/8/2020 12:38,,35489789,Nhava Sheva International Container Terminal (NSICT),21/8/2020 12:38,RAIL
+APSEZ,Western,EXPORT,ZMOU8873526,40,,,18/8/2020 21:02,,35297089,Adani International Container Terminal (AICTPL),24/8/2020 02:51,TRUCK
+JNPT,Western,EXPORT,ZMOU8880058,40,,N,23/8/2020 01:31,,35247297,Nhava Sheva International Container Terminal (NSICT),23/8/2020 01:32,RAIL
+"KDS, Kolkata",Eastern,EXPORT,ZMOU8880382,40,,,31/7/2020 09:01,,34368650,"Kolkata Dock System (KDS) , Kolkata Port",3/8/2020 13:07,TRUCK
+"NMPT, New Mangalore",Southern,EXPORT,ZMOU8880459,,,,18/8/2020 08:49,,35396691,New Manglore Port Trust,20/8/2020 09:10,TRUCK
+APSEZ,Western,IMPORT,ZMOU8880905,40,34949585,,2/8/2020 02:49,,,Adani Mundra Container Terminal (AMCT),2/8/2020 18:04,TRUCK
+Chennai Port,Southern,IMPORT,ZMOU8881218,40,,Y,24/8/2020 22:45,N,35599476,Chennai International Terminals Pvt Ltd (CITPL),25/8/2020 17:30,TRUCK
+JNPT,Western,IMPORT,ZMOU8882277,40,,N,25/7/2020 21:57,Y,34737607,Gateway Terminals India (GTI),28/7/2020 04:04,TRUCK
+APSEZ,Western,IMPORT,ZMOU8882404,40,35184738,,11/8/2020 05:19,,,Adani Mundra Container Terminal (AMCT),12/8/2020 00:02,TRUCK
+JNPT,Western,EXPORT,ZMOU8882430,40,,N,22/7/2020 23:17,N,34641154,Gateway Terminals India (GTI),28/7/2020 17:47,RAIL
+JNPT,Western,EXPORT,ZMOU8882472,40,,N,1/8/2020 03:45,N,34922493,Gateway Terminals India (GTI),14/8/2020 04:27,RAIL
+JNPT,Western,EXPORT,ZMOU8882472,40,,N,1/8/2020 03:36,N,34922493,Nhava Sheva International Container Terminal (NSICT),1/8/2020 03:36,RAIL
+JNPT,Western,IMPORT,ZMOU8882805,40,,,8/8/2020 17:41,Y,35117979,Jawaharlal Nehru Port Container Terminal (JNPCT),11/8/2020 10:12,TRUCK
+JNPT,Western,EXPORT,ZMOU8882908,40,,N,23/8/2020 01:25,N,35547111,Nhava Sheva International Container Terminal (NSICT),23/8/2020 01:25,RAIL
+JNPT,Western,EXPORT,ZMOU8883334,40,,N,23/8/2020 02:19,,35247298,Nhava Sheva International Container Terminal (NSICT),23/8/2020 02:19,RAIL
+APSEZ,Western,IMPORT,ZMOU8883669,40,35312757,,15/8/2020 07:52,,,Adani Mundra Container Terminal (AMCT),19/8/2020 22:41,TRUCK
+"VCT, Visakhapatnam",Eastern,EXPORT,ZMOU8884351,40,,Y,22/8/2020 02:25,N,35561526,Visakha Container Terminal,23/8/2020 14:49,TRUCK
+"KDS, Kolkata",Eastern,EXPORT,ZMOU8884557,40,,,31/7/2020 02:38,,34562182,"Kolkata Dock System (KDS) , Kolkata Port",3/8/2020 13:02,TRUCK
+JNPT,Western,IMPORT,ZMOU8884958,40,,,7/8/2020 21:53,Y,35092484,Jawaharlal Nehru Port Container Terminal (JNPCT),11/8/2020 10:14,TRUCK
+JNPT,Western,IMPORT,ZMOU8884963,40,,N,10/8/2020 20:29,N,35173713,Gateway Terminals India (GTI),12/8/2020 00:35,TRUCK
+"NMPT, New Mangalore",Southern,EXPORT,ZMOU8885065,,,,17/8/2020 21:48,,35381565,New Manglore Port Trust,19/8/2020 19:10,TRUCK
+JNPT,Western,EXPORT,ZMOU8885110,40,,N,22/8/2020 10:06,N,35527148,Gateway Terminals India (GTI),24/8/2020 08:35,RAIL
+JNPT,Western,EXPORT,ZMOU8885240,40,,N,21/8/2020 10:48,,35489802,Gateway Terminals India (GTI),24/8/2020 00:30,RAIL
+JNPT,Western,EXPORT,ZMOU8885240,40,,N,21/8/2020 10:30,,35489802,Nhava Sheva International Container Terminal (NSICT),21/8/2020 10:32,RAIL
+JNPT,Western,IMPORT,ZMOU8885316,40,,,7/8/2020 20:59,Y,35090999,Jawaharlal Nehru Port Container Terminal (JNPCT),11/8/2020 17:13,TRUCK
+JNPT,Western,EXPORT,ZMOU8885390,40,,N,21/8/2020 20:14,N,35580822,Gateway Terminals India (GTI),24/8/2020 08:11,RAIL
+APSEZ,Western,IMPORT,ZMOU8885527,40,34954394,,2/8/2020 07:57,,,Adani Mundra Container Terminal (AMCT),2/8/2020 19:47,TRUCK
+APSEZ,Western,IMPORT,ZMOU8885609,40,34955160,,2/8/2020 08:17,,,Adani Mundra Container Terminal (AMCT),2/8/2020 19:19,TRUCK
+JNPT,Western,EXPORT,ZMOU8885635,40,,N,16/8/2020 09:21,,35339376,Gateway Terminals India (GTI),19/8/2020 05:34,RAIL
+APSEZ,Western,IMPORT,ZMOU8885677,40,35308616,,15/8/2020 03:16,,,Adani Mundra Container Terminal (AMCT),19/8/2020 19:13,TRUCK
+JNPT,Western,EXPORT,ZMOU8885717,40,,N,31/7/2020 23:44,,34914359,Gateway Terminals India (GTI),14/8/2020 04:53,RAIL
+JNPT,Western,EXPORT,ZMOU8885722,40,,N,22/8/2020 23:17,,35545946,Gateway Terminals India (GTI),25/8/2020 04:35,RAIL
+JNPT,Western,EXPORT,ZMOU8885743,40,,N,22/8/2020 05:54,,35515823,Gateway Terminals India (GTI),24/8/2020 00:46,RAIL
+JNPT,Western,EXPORT,ZMOU8885893,40,,Y,12/8/2020 11:06,N,35224815,Nhava Sheva International Container Terminal (NSICT),14/8/2020 10:53,TRUCK
+JNPT,Western,IMPORT,ZMOU8885893,40,,N,25/7/2020 21:53,Y,34737608,Gateway Terminals India (GTI),28/7/2020 07:28,TRUCK
+APSEZ,Western,IMPORT,ZMOU8885954,40,35309532,,15/8/2020 04:16,,,Adani Mundra Container Terminal (AMCT),19/8/2020 20:48,TRUCK
+APSEZ,Western,EXPORT,ZMOU8886122,40,,,2/8/2020 04:32,,34904485,Adani Mundra Container Terminal (AMCT),2/8/2020 12:50,RAIL
+APSEZ,Western,IMPORT,ZMOU8886138,40,35309533,,15/8/2020 04:09,,,Adani Mundra Container Terminal (AMCT),19/8/2020 18:33,TRUCK
+"KDS, Kolkata",Eastern,IMPORT,ZMOU8886230,40,,,3/8/2020 10:00,,34978823,"Kolkata Dock System (KDS) , Kolkata Port",4/8/2020 06:50,TRUCK
+APSEZ,Western,IMPORT,ZMOU8886436,40,35288631,,14/8/2020 14:44,,,Adani Mundra Container Terminal (AMCT),19/8/2020 11:59,TRUCK
+JNPT,Western,IMPORT,ZMOU8886760,40,,N,25/7/2020 21:56,Y,34737609,Gateway Terminals India (GTI),28/7/2020 04:20,TRUCK
+"NMPT, New Mangalore",Southern,EXPORT,ZMOU8887108,,,,19/8/2020 15:55,,35436728,New Manglore Port Trust,20/8/2020 09:24,TRUCK
+"NMPT, New Mangalore",Southern,EXPORT,ZMOU8887371,,,,29/7/2020 09:28,,34836847,New Manglore Port Trust,31/7/2020 04:15,TRUCK
+APSEZ,Western,IMPORT,ZMOU8887670,40,35308617,,15/8/2020 03:40,,,Adani Mundra Container Terminal (AMCT),19/8/2020 20:32,TRUCK
+JNPT,Western,EXPORT,ZMOU8887751,40,,Y,4/8/2020 21:25,N,35015918,Jawaharlal Nehru Port Container Terminal (JNPCT),9/8/2020 04:31,TRUCK
+JNPT,Western,EXPORT,ZMOU8887807,40,,Y,4/8/2020 21:23,,35014818,Jawaharlal Nehru Port Container Terminal (JNPCT),9/8/2020 04:13,TRUCK
+JNPT,Western,EXPORT,ZMOU8888233,40,,N,1/8/2020 18:24,N,34940376,Nhava Sheva International Container Terminal (NSICT),1/8/2020 18:25,RAIL
+APSEZ,Western,IMPORT,ZMOU8888700,40,35309534,,15/8/2020 04:52,,,Adani Mundra Container Terminal (AMCT),19/8/2020 21:33,TRUCK
+APSEZ,Western,EXPORT,ZMOU8888737,40,,,31/7/2020 09:57,,34897688,Adani Mundra Container Terminal (AMCT),2/8/2020 16:20,RAIL
+JNPT,Western,EXPORT,ZMOU8888803,40,,N,16/8/2020 09:26,,35339416,Gateway Terminals India (GTI),19/8/2020 05:26,RAIL
+JNPT,Western,EXPORT,ZMOU8888845,40,,Y,3/8/2020 22:16,,34989211,Jawaharlal Nehru Port Container Terminal (JNPCT),8/8/2020 21:05,TRUCK
+APSEZ,Western,EXPORT,ZMOU8888932,40,,,31/7/2020 10:34,,34897687,Adani Mundra Container Terminal (AMCT),2/8/2020 17:07,RAIL
+JNPT,Western,EXPORT,ZMOU8889116,40,,N,9/8/2020 21:30,,35132876,Gateway Terminals India (GTI),12/8/2020 18:30,RAIL
+JNPT,Western,EXPORT,ZMOU8889604,40,,N,1/8/2020 18:19,N,34940374,Nhava Sheva International Container Terminal (NSICT),1/8/2020 18:21,RAIL
+JNPT,Western,IMPORT,ZMOU8889760,40,,,7/8/2020 20:51,Y,35091000,Jawaharlal Nehru Port Container Terminal (JNPCT),11/8/2020 06:36,TRUCK
+"NMPT, New Mangalore",Southern,EXPORT,ZMOU8889883,,,,27/7/2020 21:26,,34791790,New Manglore Port Trust,1/8/2020 01:09,TRUCK
+JNPT,Western,EXPORT,ZMOU8895438,40,,N,31/7/2020 13:58,N,35034969,Gateway Terminals India (GTI),14/8/2020 01:58,RAIL
+JNPT,Western,EXPORT,ZMOU8895464,40,,N,30/7/2020 19:31,N,35034970,Gateway Terminals India (GTI),14/8/2020 02:14,RAIL
+JNPT,Western,IMPORT,ZMOU8895654,40,,,8/8/2020 17:18,Y,35116384,Jawaharlal Nehru Port Container Terminal (JNPCT),12/8/2020 00:19,TRUCK
+APSEZ,Western,IMPORT,ZMOU8895870,40,34958545,,2/8/2020 12:34,,,Adani Mundra Container Terminal (AMCT),2/8/2020 18:45,TRUCK
+Chennai Port,Southern,EXPORT,ZMOU8895886,40,,N,25/7/2020 17:53,,34520621,Chennai International Terminals Pvt Ltd (CITPL),28/7/2020 12:07,TRUCK
+APSEZ,Western,IMPORT,ZMOU8895910,40,34948517,,2/8/2020 01:53,,,Adani Mundra Container Terminal (AMCT),2/8/2020 18:10,TRUCK
+APSEZ,Western,IMPORT,ZMOU8895994,40,35184739,,11/8/2020 05:59,,,Adani Mundra Container Terminal (AMCT),11/8/2020 14:45,TRUCK
+APSEZ,Western,IMPORT,ZMOU8896033,40,34958546,,2/8/2020 12:33,,,Adani Mundra Container Terminal (AMCT),2/8/2020 19:06,TRUCK
+JNPT,Western,IMPORT,ZMOU8896049,40,,,8/8/2020 17:52,Y,35117980,Jawaharlal Nehru Port Container Terminal (JNPCT),12/8/2020 00:08,TRUCK
+JNPT,Western,IMPORT,ZMOU8896120,40,,,8/8/2020 17:16,Y,35116385,Jawaharlal Nehru Port Container Terminal (JNPCT),11/8/2020 08:48,TRUCK
+JNPT,Western,IMPORT,ZMOU8896671,40,,,7/8/2020 21:12,Y,35091001,Jawaharlal Nehru Port Container Terminal (JNPCT),11/8/2020 08:52,TRUCK
+JNPT,Western,IMPORT,ZMOU8896692,40,,,2/8/2020 11:44,,34401922,Gateway Terminals India (GTI),2/8/2020 14:22,RAIL
+APSEZ,Western,IMPORT,ZMOU8896882,40,35187135,,11/8/2020 07:33,,,Adani Mundra Container Terminal (AMCT),11/8/2020 23:51,TRUCK
+APSEZ,Western,IMPORT,ZMOU8896901,40,34958547,,2/8/2020 12:47,,,Adani Mundra Container Terminal (AMCT),2/8/2020 22:50,TRUCK
+JNPT,Western,EXPORT,ZMOU8897997,40,,N,28/7/2020 22:44,N,34825424,Gateway Terminals India (GTI),29/7/2020 19:34,RAIL
+JNPT,Western,EXPORT,ZMOU8898442,40,,N,30/7/2020 19:29,N,35034971,Gateway Terminals India (GTI),14/8/2020 02:11,RAIL
+APSEZ,Western,IMPORT,ZMOU8899201,40,35308618,,15/8/2020 03:43,,,Adani Mundra Container Terminal (AMCT),19/8/2020 18:32,TRUCK
+APSEZ,Western,IMPORT,ZMOU8899840,40,35290274,,14/8/2020 15:16,,,Adani Mundra Container Terminal (AMCT),19/8/2020 18:24,TRUCK
+APSEZ,Western,IMPORT,ZMOU8899984,40,35290275,,14/8/2020 15:20,,,Adani Mundra Container Terminal (AMCT),19/8/2020 18:01,TRUCK
+Chennai Port,Southern,EXPORT,ZSMU2013285,20,,N,26/7/2020 11:17,,34728649,Chennai International Terminals Pvt Ltd (CITPL),28/7/2020 04:37,TRUCK
+Chennai Port,Southern,IMPORT,ZSMU2015117,20,,Y,15/8/2020 02:42,Y,35307298,Chennai International Terminals Pvt Ltd (CITPL),16/8/2020 08:28,TRUCK
+JNPT,Western,EXPORT,ZSMU2016094,20,,,17/8/2020 01:52,Y,35363983,Jawaharlal Nehru Port Container Terminal (JNPCT),18/8/2020 18:24,TRUCK
+Kattupalli Port,Southern,IMPORT,ZSMU2016113,,,Y,13/8/2020 11:13,,35332270,Kattupalli International Container Terminal (KICT),15/8/2020 20:58,TRUCK
+JNPT,Western,IMPORT,ZSMU2016140,20,,,31/7/2020 02:34,N,34890271,Jawaharlal Nehru Port Container Terminal (JNPCT),31/7/2020 14:41,TRUCK
+APSEZ,Western,IMPORT,ZSMU2018013,20,35358217,,16/8/2020 21:21,,,Adani International Container Terminal (AICTPL),22/8/2020 04:12,TRUCK
+JNPT,Western,IMPORT,ZWFU1000323,20,,,28/7/2020 01:27,N,34797425,Jawaharlal Nehru Port Container Terminal (JNPCT),29/7/2020 21:26,RAIL
+APSEZ,Western,EXPORT,ZWFU1000508,20,,,1/8/2020 03:13,,34922075,Adani Mundra Container Terminal (AMCT),7/8/2020 13:07,RAIL
+"ICTT, Kochi",Southern,IMPORT,ZWFU1000597,20,,N,6/8/2020 05:15,N,35049745,"International Container Transhipment Terminal, Kochi",10/8/2020 12:31,TRUCK
+APSEZ,Western,EXPORT,ZWFU2000246,20,,,1/8/2020 02:40,,34869512,Adani Mundra Container Terminal (AMCT),7/8/2020 12:48,RAIL
+JNPT,Western,IMPORT,ZWFU2000375,20,,,8/8/2020 05:25,N,35100609,Jawaharlal Nehru Port Container Terminal (JNPCT),9/8/2020 16:56,TRUCK
+JNPT,Western,EXPORT,ZWFU2310426,20,,Y,1/8/2020 15:23,,34934160,Jawaharlal Nehru Port Container Terminal (JNPCT),5/8/2020 02:48,TRUCK
+JNPT,Western,EXPORT,ZWFU2837799,20,,Y,1/8/2020 15:51,,34928347,Jawaharlal Nehru Port Container Terminal (JNPCT),5/8/2020 02:49,TRUCK
+APSEZ,Western,IMPORT,ZWFU5570094,40,35188960,,11/8/2020 09:52,,,Adani Hazira Port Private Limited (AHPPL),11/8/2020 14:20,TRUCK
+"ICTT, Kochi",Southern,IMPORT,ZWFU8200766,40,,N,7/8/2020 06:47,N,35076404,"International Container Transhipment Terminal, Kochi",11/8/2020 11:53,TRUCK
